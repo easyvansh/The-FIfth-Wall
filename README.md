@@ -1,95 +1,164 @@
-# Vansh Singh Atelier
+# The Fifth Wall
 
-A cinematic personal blog for essays, fragments, and notes on cinema, software, AI, philosophy, and modern life.
+**A cinematic personal notebook for essays, fragments, cinema, software, AI, philosophy, and modern life.**
 
-The site is built from the plan in `PLAN.md`: readable long-form writing, short atomic fragments, topic pages, a newsletter entry point, and a warm dark visual system inspired by notebooks, cinema, and linked thinking.
+Live site: [thefifthwall.vercel.app](https://thefifthwall.vercel.app/)
+
+The Fifth Wall is my public archive: a place for long-form essays, short fragments, film notes, and linked thinking. It is designed less like a generic blog and more like a dark cinematic notebook, with serif headlines, mono metadata, textured grid surfaces, and a small software-lab pulse running through the interface.
+
+## What It Is
+
+- Essays for longer arguments and cultural analysis
+- Fragments for shorter notes, questions, and observations
+- Topic pages for browsing ideas across posts and notes
+- Cinema frames for visual notes and film attention
+- A lightweight archive/newsletter entry point
+- File-based content that is easy to edit without a CMS
 
 ## Stack
 
 - Next.js 15 App Router
 - TypeScript
 - Tailwind CSS
-- File-based content in `content/`
+- Local Markdown and JSON content in `content/`
+- Custom Markdown renderer for essays
+- Light/dark mode through CSS variables
 
-## Run Locally
+## Local Setup
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`.
+Open:
+
+```text
+http://localhost:3000
+```
+
+On Windows PowerShell, if `npm` is blocked by execution policy, use:
+
+```bash
+npm.cmd run dev
+```
 
 ## Useful Commands
 
 ```bash
-npm run dev
-npm run build
-npm run start
+npx.cmd tsc --noEmit
+npm.cmd run build
+npm.cmd run dev
+npm.cmd run start
 ```
 
-The npm scripts include Node flags for this setup:
+The npm scripts include:
 
-- `--no-experimental-webstorage` avoids the Node 25 `localStorage` runtime issue.
-- `--use-system-ca` helps font/package fetches work with Windows certificate trust.
+- `--no-experimental-webstorage` for the current Node setup
+- `--use-system-ca` for Windows certificate trust
 
-## Content
+## Content Map
 
-The writing and page copy live outside the app code:
+Most writing lives outside the app code.
 
 ```text
-content/posts/*.md
-content/fragments/*.md
-content/site.json
-content/tags.json
-content/cinema-frames.json
+content/posts/*.md          essays
+content/fragments/*.md      short notes
+content/tags.json           topic registry
+content/site.json           homepage/about/page copy
+content/cinema-frames.json  cinema frame cards
 ```
 
-`lib/content.ts` is now only the loader and type contract. To update the site, edit the files in `content/` and restart/rebuild the Next app.
+The loader lives here:
 
-Essay and fragment Markdown files use JSON frontmatter:
+```text
+lib/content.ts
+```
+
+The practical editing guide lives here:
+
+```text
+use.md
+```
+
+The project wiring map lives here:
+
+```text
+function.md
+```
+
+## Main Routes
+
+- `/` - cinematic notebook homepage
+- `/posts` - essay archive
+- `/posts/[slug]` - individual essay
+- `/fragments` - fragment archive
+- `/fragments/[slug]` - individual fragment
+- `/topics/[tag]` - topic archive
+- `/cinema` - cinema frames
+- `/newsletter` - archive/newsletter page
+- `/rss.xml` - RSS feed
+
+## Essay Format
+
+Essays live in:
+
+```text
+content/posts/
+```
+
+Example:
 
 ```md
 ---
 {
   "slug": "my-essay",
   "title": "My Essay",
-  "subtitle": "Optional essay subtitle",
-  "excerpt": "Short archive summary.",
+  "subtitle": "A short subtitle.",
+  "excerpt": "A short archive summary.",
   "category": "cinema",
   "tags": ["cinema", "attention"],
-  "publishedAt": "May 21, 2026",
+  "publishedAt": "May 22, 2026",
   "readingTime": 6,
   "featured": false,
+  "coverImage": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1600&auto=format&fit=crop",
   "order": 5,
   "marginNotes": [],
   "backlinks": []
 }
 ---
+
 Write the essay here.
 
 ## Section headings work
 
+*Italics*, **bold**, and ***bold italic*** work.
+
 > Blockquotes work.
+
+- Lists work.
+- Like this.
 
 :::callout Director note
 Callouts work too.
 :::
 ```
 
-Main routes:
+## Design Direction
 
-- `/` - homepage
-- `/posts` - essays
-- `/posts/[slug]` - article page
-- `/fragments` - short notes
-- `/topics/[tag]` - topic archive
-- `/cinema` - cinema frames
-- `/newsletter` - subscribe page
+The site is built around a cinematic notebook aesthetic:
 
-## Next Steps
+- deep charcoal canvas
+- optional light mode
+- subtle grid and grain texture
+- orange as the primary accent
+- serif display type for editorial warmth
+- mono labels for system-like structure
+- compact sidebar navigation
+- separate essay and fragment sections on the landing page
 
-- Connect Sanity CMS
-- Wire the newsletter form to Buttondown or ConvertKit
-- Add real published essays and fragments
-- Add search and knowledge graph later
+## Notes
+
+This is intentionally file-backed for now. To publish new work, edit `content/`, commit, and redeploy.
+
+For detailed content instructions, read [use.md](./use.md).

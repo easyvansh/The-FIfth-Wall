@@ -23,7 +23,7 @@ export default function HomePage() {
           <div>
             <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-neon-orange">{copy.eyebrow}</p>
             <h1 className="mt-4 max-w-5xl font-display text-6xl leading-[0.88] text-text-primary sm:text-8xl lg:text-[9rem]">
-              Cinematic Software Lab
+              Digital Journal
             </h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-text-secondary">{copy.intro}</p>
           </div>

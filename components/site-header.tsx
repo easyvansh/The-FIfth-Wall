@@ -16,7 +16,7 @@ export function SiteHeader() {
       <div className="flex h-full flex-col justify-between gap-7">
         <div>
           <Link href="/" className="group block">
-            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-neon-orange">Cinematic Software Lab</p>
+            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-neon-orange">Digital Journal</p>
             <h1 className="mt-3 font-display text-4xl leading-none text-text-primary">
               The Fifth <span className="text-amber">Wall</span>
             </h1>

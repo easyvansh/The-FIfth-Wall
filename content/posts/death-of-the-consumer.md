@@ -41,7 +41,7 @@
 }
 ---
 
-# The Death of the Consumer(Passive Consumption) 
+# The Death of the Consumer
 
 I don’t think people realize how much the texture of everyday life has changed in the last few years.
 
