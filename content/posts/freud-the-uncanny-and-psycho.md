@@ -6,7 +6,7 @@
   "excerpt": "The uncanny is not fear of the unknown. It is fear of something once intimate returning in distorted form.",
   "category": "cinema",
   "tags": ["cinema", "psychoanalysis", "horror", "freud", "hitchcock"],
-  "publishedAt": "May 22, 2026",
+  "publishedAt": "Feb 18, 2025",
   "readingTime": 14,
   "featured": false,
   "coverImage": "https://www.freud.org.uk/wp-content/uploads/2019/09/-Freud-Museum-London-11-e1568732063999.jpg",
