@@ -9,7 +9,7 @@ interface PostCardProps {
 
 export function PostCard({ post, featured = false }: PostCardProps) {
   return (
-    <article className={`group atelier-panel overflow-hidden rounded-lg transition hover:-translate-y-1 ${featured ? 'grid lg:grid-cols-[1.35fr_1fr]' : ''}`}>
+    <article className={`archive-card group overflow-hidden rounded-sm border border-border bg-surface/85 transition hover:-translate-y-1 ${featured ? 'grid lg:grid-cols-[1.35fr_1fr]' : ''}`}>
       {post.coverImage ? (
         <Link href={`/posts/${post.slug}`} className={`relative block overflow-hidden bg-ink ${featured ? 'min-h-[320px]' : 'aspect-[16/9]'}`}>
           <Image
@@ -17,9 +17,9 @@ export function PostCard({ post, featured = false }: PostCardProps) {
             alt=""
             fill
             sizes={featured ? '(min-width: 1024px) 50vw, 100vw' : '(min-width: 768px) 40vw, 100vw'}
-            className="object-cover opacity-75 saturate-[0.82] transition duration-700 group-hover:scale-105 group-hover:opacity-95"
+            className="object-cover opacity-70 saturate-[0.68] contrast-110 transition duration-700 group-hover:scale-105 group-hover:opacity-95"
           />
-          <div className="absolute inset-x-0 bottom-0 flex items-center justify-between bg-gradient-to-t from-base to-transparent p-4 font-mono text-[10px] uppercase tracking-[0.22em] text-neon-cyan">
+          <div className="absolute inset-x-0 bottom-0 flex items-center justify-between bg-gradient-to-t from-base to-transparent p-4 font-mono text-[10px] uppercase tracking-[0.22em] text-neon-orange">
             <span>film preview</span>
             <span>2.39:1</span>
           </div>
@@ -29,7 +29,7 @@ export function PostCard({ post, featured = false }: PostCardProps) {
       <div className="flex flex-col justify-between gap-8 p-6 lg:p-8">
         <div>
           <div className="mb-5 flex flex-wrap items-center gap-3 font-mono text-[10px] uppercase tracking-[0.22em]">
-            <Link href={`/topics/${post.category}`} className="rounded border border-amber/40 bg-amber/10 px-2 py-1 text-amber">
+            <Link href={`/topics/${post.category}`} className="rounded-sm border border-neon-orange/35 bg-neon-orange/10 px-2 py-1 text-neon-orange">
               {post.category}
             </Link>
             <span className="text-text-faint">{post.readingTime} min read</span>
@@ -46,7 +46,7 @@ export function PostCard({ post, featured = false }: PostCardProps) {
           <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-text-faint">{post.publishedAt}</span>
           <div className="flex flex-wrap gap-2">
             {post.tags.slice(0, 3).map((tag) => (
-              <Link key={tag} href={`/topics/${tag.toLowerCase()}`} className="rounded-full border border-border px-3 py-1 font-mono text-[10px] uppercase tracking-[0.16em] text-text-secondary transition hover:border-neon-cyan hover:text-neon-cyan">
+              <Link key={tag} href={`/topics/${tag.toLowerCase()}`} className="rounded-sm border border-border px-3 py-1 font-mono text-[10px] uppercase tracking-[0.16em] text-text-secondary transition hover:border-neon-orange hover:text-neon-orange">
                 {tag}
               </Link>
             ))}
