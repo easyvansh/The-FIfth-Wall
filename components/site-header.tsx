@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { FifthWallLogo } from './fifth-wall-logo';
 import { ThemeToggle } from './theme-toggle';
 
 const navLinks = [
@@ -16,10 +17,15 @@ export function SiteHeader() {
       <div className="flex h-full flex-col justify-between gap-7">
         <div>
           <Link href="/" className="group block">
-            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-neon-orange">Digital Journal</p>
-            <h1 className="mt-3 font-display text-4xl leading-none text-text-primary">
-              The Fifth <span className="text-amber">Wall</span>
-            </h1>
+            <div className="flex items-start gap-3 text-text-primary transition group-hover:text-amber">
+              <FifthWallLogo className="mt-0.5 h-12 w-12 shrink-0 text-neon-orange" />
+              <div className="min-w-0">
+                <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-neon-orange">Digital Journal</p>
+                <h1 className="mt-2 font-display text-4xl leading-none text-text-primary transition group-hover:text-amber">
+                  The Fifth <span className="text-amber">Wall</span>
+                </h1>
+              </div>
+            </div>
             <p className="mt-2 font-mono text-[10px] uppercase tracking-[0.24em] text-text-faint">Vansh Singh Archive</p>
           </Link>
 

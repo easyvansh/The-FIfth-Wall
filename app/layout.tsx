@@ -29,7 +29,8 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Vansh Singh - Notes on cinema, software, AI, philosophy, and modern life',
+  title: 'The Fifth Wall',
+  applicationName: 'The Fifth Wall',
   description: 'A cinematic personal publishing platform for essays, fragments, cinema notes, and linked thinking.'
 };
 

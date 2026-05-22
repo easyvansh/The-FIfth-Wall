@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { getAllNotes, getAllPosts, getAllTags, getFeaturedPost, getSiteContent } from '../lib/content';
 import { LinkedNoteCard } from '../components/note-card';
 import { PostCard } from '../components/post-card';
+import { FifthWallLogo } from '../components/fifth-wall-logo';
 
 export default function HomePage() {
   const featured = getFeaturedPost();
@@ -22,9 +23,12 @@ export default function HomePage() {
           </div>
           <div>
             <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-neon-orange">{copy.eyebrow}</p>
-            <h1 className="mt-4 max-w-5xl font-display text-6xl leading-[0.88] text-text-primary sm:text-8xl lg:text-[9rem]">
-              Digital Journal
-            </h1>
+            <div className="mt-4 flex items-center gap-4 text-text-primary sm:gap-6">
+              <FifthWallLogo className="h-14 w-14 shrink-0 text-neon-orange sm:h-20 sm:w-20 lg:h-24 lg:w-24" />
+              <h1 className="max-w-5xl font-display text-6xl leading-[0.88] sm:text-8xl lg:text-[9rem]">
+                The Fifth Wall
+              </h1>
+            </div>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-text-secondary">{copy.intro}</p>
           </div>
           <div className="flex flex-wrap gap-3 font-mono text-xs uppercase tracking-[0.2em]">
