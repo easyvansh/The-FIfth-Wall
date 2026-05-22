@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Mirror",
+    "director": "Andrei Tarkovsky",
+    "aspectRatio": "1.37:1",
+    "image": "https://images.unsplash.com/photo-1542204172-e7052809a862?q=80&w=1200&auto=format&fit=crop",
+    "note": "Natural elements replace plot architecture: wind, fire, water, and memory become the structure."
+  },
+  {
+    "title": "The Conversation",
+    "director": "Francis Ford Coppola",
+    "aspectRatio": "1.85:1",
+    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1200&auto=format&fit=crop",
+    "note": "Telephoto compression turns public space into paranoia and makes distance feel like intrusion."
+  },
+  {
+    "title": "Stalker",
+    "director": "Andrei Tarkovsky",
+    "aspectRatio": "1.37:1",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1200&auto=format&fit=crop",
+    "note": "The Zone is less a place than a rule system, rendered as a visual break from industrial sepia."
+  },
+  {
+    "title": "Persona",
+    "director": "Ingmar Bergman",
+    "aspectRatio": "1.37:1",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1200&auto=format&fit=crop",
+    "note": "Faces overlap until identity stops being a boundary and becomes an exposure problem."
+  }
+]

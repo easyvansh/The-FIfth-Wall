@@ -1,0 +1,68 @@
+{
+  "home": {
+    "eyebrow": "Notes from the edge of attention.",
+    "title": "A quiet corner for thoughts that refuse to scroll away.",
+    "intro": "Fragments, essays, questions, unfinished observations, and the occasional attempt to make sense of modern life without flattening it into content.",
+    "primaryCta": "Read latest entry",
+    "featuredEyebrow": "Pinned note",
+    "featuredTitle": "Something worth returning to",
+    "featuredNote": "Kept close",
+    "topicsEyebrow": "Themes",
+    "topicsTitle": "Move through the notebook by instinct",
+    "postsEyebrow": "Current writings",
+    "postsTitle": "Recent pages from the archive",
+    "notesEyebrow": "Loose thoughts",
+    "notesTitle": "Small things worth keeping",
+    "notesLink": "Open notebook"
+  },
+  "about": {
+    "eyebrow": "About",
+    "name": "Vansh Singh",
+    "role": "Writer, observer, curious mind",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1600&auto=format&fit=crop",
+    "lead": "I’ve always been drawn to the strange tension between depth and speed. The world keeps rewarding reaction, while most meaningful things still ask for attention.",
+    "paragraphs": [
+      "This space exists as an alternative to the performance loop of the internet. Less personal brand, more personal archive. A place for thoughts that are still becoming.",
+      "Some entries arrive fully formed. Others are half-finished questions, late-night realizations, conversations with books, moments from travel, observations about people, ambition, memory, identity, loneliness, beauty, discipline, or whatever keeps lingering after the day ends.",
+      "I’m less interested in sounding certain and more interested in staying awake to things. The goal here is simple: to build a body of work that feels alive years later, even after trends, algorithms, and timelines move on."
+    ],
+    "reachEyebrow": "Reach",
+    "links": [
+      { "label": "Email", "href": "mailto:vansh2@ualberta.ca" },
+      { "label": "GitHub", "href": "https://github.com/easyvansh" },
+      { "label": "Newsletter", "href": "/newsletter" }
+    ]
+  },
+  "postsIndex": {
+    "eyebrow": "Essays and writings",
+    "title": "Long-form reflections, observations, and unfinished answers.",
+    "intro": "A growing archive of essays, personal reflections, cultural observations, and ideas that needed more than a paragraph."
+  },
+  "fragmentsIndex": {
+    "eyebrow": "Fragments",
+    "title": "Quick thoughts with rough edges left intact.",
+    "intro": "Short notes, passing realizations, sentences underlined from life before they disappear."
+  },
+  "cinema": {
+    "eyebrow": "Visual notebook",
+    "title": "Images, atmosphere, memory, attention.",
+    "intro": "A quieter visual layer built around mood, stillness, framing, and the emotional texture of observation.",
+    "ctaLabel": "Open visual notes",
+    "ctaHref": "/posts/surveillance-cinema"
+  },
+  "newsletter": {
+    "eyebrow": "Dispatch",
+    "title": "Occasional letters from the notebook.",
+    "intro": "Essays, fragments, reading notes, observations, and whatever feels worth sending instead of posting.",
+    "emailLabel": "Email address",
+    "placeholder": "you@domain.com",
+    "button": "Join the dispatch",
+    "formNote": "No growth hacks. No forced cadence. Just a note when something meaningful gathers enough weight.",
+    "issueTitle": "Inside the dispatch",
+    "issueItems": [
+      "A complete essay when it earns its place.",
+      "Fragments and unfinished observations.",
+      "Things I’ve been thinking about lately."
+    ]
+  }
+}

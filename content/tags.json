@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "ai",
+    "label": "AI",
+    "description": "Automation, synthetic language, machine memory, and the uneasy feeling that intelligence is becoming ambient."
+  },
+  {
+    "slug": "cinema",
+    "label": "Cinema",
+    "description": "Frames, atmosphere, pacing, and the strange power of watching people exist inside time."
+  },
+  {
+    "slug": "software",
+    "label": "Software",
+    "description": "Tools, systems, digital architecture, and the invisible logic quietly shaping modern life."
+  },
+  {
+    "slug": "philosophy",
+    "label": "Philosophy",
+    "description": "Meaning, identity, attention, contradiction, and the ideas people use to survive themselves."
+  },
+  {
+    "slug": "life",
+    "label": "Life",
+    "description": "Habits, cities, loneliness, friendships, memory, ambition, and the texture of ordinary days."
+  },
+  {
+    "slug": "attention",
+    "label": "Attention",
+    "description": "Focus, distraction, overstimulation, and the fight to remain present in an accelerated world."
+  },
+  {
+    "slug": "writing",
+    "label": "Writing",
+    "description": "Essays, fragments, unfinished thoughts, and the slow process of finding a voice worth keeping."
+  },
+  {
+    "slug": "literature",
+    "label": "Literature",
+    "description": "Books, characters, inner worlds, and the sentences that quietly reorganize a person."
+  },
+  {
+    "slug": "reinvention",
+    "label": "Reinvention",
+    "description": "Second beginnings, personal change, self-construction, and the art of becoming unfamiliar to your past."
+  },
+  {
+    "slug": "surveillance",
+    "label": "Surveillance",
+    "description": "Watching, recording, algorithms, paranoia, and the modern feeling of always being observed."
+  },
+  {
+    "slug": "systems",
+    "label": "Systems",
+    "description": "Structures beneath culture, technology, behavior, institutions, and the patterns hiding in plain sight."
+  },
+  {
+    "slug": "design",
+    "label": "Design",
+    "description": "Interfaces, visual language, restraint, and the subtle decisions that shape how something feels."
+  },
+  {
+    "slug": "silence",
+    "label": "Silence",
+    "description": "Stillness, negative space, slow thinking, and the things that become audible when noise finally leaves."
+  },
+  {
+    "slug": "psychoanalysis",
+    "label": "Psychoanalysis",
+    "description": "Freud, repression, dreams, doubles, desire, and the theories that make cinema feel like a haunted mind."
+  },
+  {
+    "slug": "horror",
+    "label": "Horror",
+    "description": "Fear, dread, monsters, haunted spaces, and the genre machinery that turns anxiety into image."
+  },
+  {
+    "slug": "freud",
+    "label": "Freud",
+    "description": "Sigmund Freud, the uncanny, repression, dream logic, and psychoanalytic frameworks for reading culture."
+  },
+  {
+    "slug": "hitchcock",
+    "label": "Hitchcock",
+    "description": "Alfred Hitchcock, suspense, voyeurism, psychological cinema, and the architecture of dread."
+  }
+]
