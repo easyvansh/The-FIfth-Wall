@@ -1,4 +1,5 @@
 import { redirect } from 'next/navigation';
+import { getAllTags } from '@/lib/content';
 
 type TagPageProps = {
   params: Promise<{
@@ -7,12 +8,7 @@ type TagPageProps = {
 };
 
 export function generateStaticParams(): Array<{ tag: string }> {
-  return [
-    { tag: 'ai' },
-    { tag: 'cinema' },
-    { tag: 'software' },
-    { tag: 'philosophy' }
-  ];
+  return getAllTags().map((tag) => ({ tag: tag.slug }));
 }
 
 export default async function LegacyTagPage({ params }: TagPageProps) {

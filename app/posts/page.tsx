@@ -1,18 +1,19 @@
 import Link from 'next/link';
 import { PostCard } from '../../components/post-card';
-import { getAllPosts, getAllTags } from '../../lib/content';
+import { getAllPosts, getAllTags, getSiteContent } from '../../lib/content';
 
 export default function PostsPage() {
   const posts = getAllPosts();
   const tags = getAllTags();
+  const copy = getSiteContent().postsIndex;
 
   return (
     <section className="space-y-10">
       <div className="border-b border-border pb-8">
-        <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-neon-cyan">Essays and writings</p>
-        <h1 className="mt-4 max-w-3xl font-display text-6xl leading-none text-text-primary">Long-form analytical work and thematic unrolls.</h1>
+        <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-neon-cyan">{copy.eyebrow}</p>
+        <h1 className="mt-4 max-w-3xl font-display text-6xl leading-none text-text-primary">{copy.title}</h1>
         <p className="mt-5 max-w-2xl leading-8 text-text-secondary">
-          A readable archive of cinema, software, AI, and philosophy essays. The search layer comes later; the writing is already navigable by topic.
+          {copy.intro}
         </p>
       </div>
 

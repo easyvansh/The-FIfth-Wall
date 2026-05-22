@@ -4,7 +4,55 @@
 
 :root {
   color-scheme: dark;
-  background: #11100e;
+  --color-base: 18 18 18;
+  --color-surface: 24 23 21;
+  --color-elevated: 35 32 28;
+  --color-paper: 248 241 227;
+  --color-border: 245 234 216;
+  --color-border-alpha: 0.12;
+  --color-ink: 9 7 15;
+  --color-neon-orange: 255 77 0;
+  --color-neon-cyan: 0 194 255;
+  --color-neon-violet: 168 85 247;
+  --color-neon-green: 52 211 153;
+  --color-text-primary: 245 234 216;
+  --color-text-secondary: 184 170 148;
+  --color-text-faint: 127 114 95;
+  --color-text-paper: 42 31 19;
+  --color-amber: 214 155 69;
+  --color-amber-light: 245 201 122;
+  --color-amber-dim: 122 78 24;
+  --grid-line: rgba(245, 234, 216, 0.028);
+  --accent-haze: rgba(255, 77, 0, 0.08);
+  --panel-bg: rgba(24, 23, 21, 0.88);
+  --card-shadow: rgba(0, 0, 0, 0.28);
+  background: rgb(var(--color-base));
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+  --color-base: 244 238 226;
+  --color-surface: 255 250 240;
+  --color-elevated: 238 229 214;
+  --color-paper: 255 251 242;
+  --color-border: 58 44 28;
+  --color-border-alpha: 0.18;
+  --color-ink: 35 27 20;
+  --color-neon-orange: 211 76 19;
+  --color-neon-cyan: 0 104 140;
+  --color-neon-violet: 116 72 180;
+  --color-neon-green: 20 126 82;
+  --color-text-primary: 35 27 20;
+  --color-text-secondary: 88 75 59;
+  --color-text-faint: 130 113 91;
+  --color-text-paper: 42 31 19;
+  --color-amber: 163 101 30;
+  --color-amber-light: 199 137 53;
+  --color-amber-dim: 107 70 24;
+  --grid-line: rgba(58, 44, 28, 0.09);
+  --accent-haze: rgba(211, 76, 19, 0.1);
+  --panel-bg: rgba(255, 250, 240, 0.9);
+  --card-shadow: rgba(66, 45, 24, 0.14);
 }
 
 * {
@@ -19,10 +67,11 @@ body {
   margin: 0;
   min-height: 100vh;
   background:
-    linear-gradient(rgba(245, 234, 216, 0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(245, 234, 216, 0.025) 1px, transparent 1px),
-    #11100e;
-  background-size: 44px 44px;
+    radial-gradient(circle at 18% 0%, var(--accent-haze), transparent 28rem),
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px),
+    rgb(var(--color-base));
+  background-size: auto, 42px 42px, 42px 42px, auto;
 }
 
 ::selection {
@@ -58,13 +107,37 @@ img {
 }
 
 .atelier-panel {
-  border: 1px solid rgba(245, 234, 216, 0.12);
-  background: rgba(26, 24, 21, 0.88);
-  box-shadow: 6px 6px 0 rgba(255, 77, 0, 0.32);
+  border: 1px solid rgb(var(--color-border) / 0.12);
+  background: var(--panel-bg);
+  box-shadow: 5px 5px 0 rgba(255, 77, 0, 0.28);
 }
 
 .cyan-panel {
   box-shadow: 6px 6px 0 rgba(0, 194, 255, 0.28);
+}
+
+.archive-card {
+  box-shadow: 0 0 0 1px rgb(var(--color-border) / 0.03), 0 18px 50px var(--card-shadow);
+}
+
+.archive-card:hover {
+  box-shadow:
+    0 0 0 1px rgba(255, 77, 0, 0.4),
+    0 0 32px rgba(255, 77, 0, 0.08),
+    0 20px 60px rgba(0, 0, 0, 0.36);
+}
+
+.archive-filter {
+  position: relative;
+}
+
+.archive-filter[open] summary {
+  border-color: rgba(255, 77, 0, 0.72);
+  color: #f5ead8;
+}
+
+summary::-webkit-details-marker {
+  display: none;
 }
 
 .line-clamp-2 {

@@ -180,10 +180,10 @@ export default async function PostPage({ params }: PostPageProps) {
 
       <section className="atelier-panel rounded-lg p-7">
         <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-neon-orange">If this resonated</p>
-        <h2 className="mt-3 font-display text-4xl text-text-primary">Subscribe to the dispatch.</h2>
+        <h2 className="mt-3 font-display text-4xl text-text-primary">Join the archive.</h2>
         <p className="mt-3 max-w-2xl leading-7 text-text-secondary">New essays, recent fragments, and what I am reading or watching, sent only when there is something worth sending.</p>
         <Link href="/newsletter" className="mt-6 inline-flex rounded-md bg-neon-orange px-6 py-3 font-mono text-xs font-bold uppercase tracking-[0.22em] text-ink shadow-cyan transition hover:-translate-y-1">
-          Subscribe
+          Join archive
         </Link>
       </section>
     </article>

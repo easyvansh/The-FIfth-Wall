@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { NoteCard } from '@/components/note-card';
+import { LinkedNoteCard } from '@/components/note-card';
 import { PostCard } from '@/components/post-card';
 import { getAllTags, getNotesByTag, getPostsByTag, getTag } from '@/lib/content';
 
@@ -43,7 +43,7 @@ export default async function TopicPage({ params }: TopicPageProps) {
         <div>
           <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-amber">Fragments</p>
           <div className="mt-5 grid gap-7 md:grid-cols-2 xl:grid-cols-3">
-            {notes.length ? notes.map((note) => <NoteCard key={note.slug} note={note} />) : <p className="text-text-secondary">No fragments in this topic yet.</p>}
+            {notes.length ? notes.map((note) => <LinkedNoteCard key={note.slug} note={note} />) : <p className="text-text-secondary">No fragments in this topic yet.</p>}
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import { getAllPosts } from '@/lib/content';
 
-const SITE_URL = 'https://example.com';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://vanshsingh.in';
 
 function generateRss(posts: ReturnType<typeof getAllPosts>) {
   const items = posts

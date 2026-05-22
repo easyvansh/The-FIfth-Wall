@@ -30,12 +30,28 @@ const mono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: 'Vansh Singh - Notes on cinema, software, AI, philosophy, and modern life',
-  description: 'A cinematic personal publishing platform for essays, fragments, projects, and linked thinking.'
+  description: 'A cinematic personal publishing platform for essays, fragments, cinema notes, and linked thinking.'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                var theme = localStorage.getItem('theme');
+                if (theme !== 'light' && theme !== 'dark') {
+                  theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+                }
+                document.documentElement.dataset.theme = theme;
+                document.documentElement.style.colorScheme = theme;
+              } catch (_) {}
+            `
+          }}
+        />
+      </head>
       <body className={`${display.variable} ${sans.variable} ${handwritten.variable} ${mono.variable} min-h-screen bg-base font-sans text-text-primary antialiased`}>
         <div className="grain-layer" />
         <div className="min-h-screen lg:flex">
