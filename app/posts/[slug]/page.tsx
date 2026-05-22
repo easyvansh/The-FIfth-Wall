@@ -1,13 +1,71 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import type { ReactNode } from 'react';
 import { getAllPosts, getPostBySlug, getPostByTitle, getRelatedPostsByTags, type Post } from '../../../lib/content';
 
 interface PostPageProps {
   params: Promise<{ slug: string }>;
 }
 
-function renderWikiText(text: string) {
+function renderMarkdownInline(text: string, keyPrefix: string): ReactNode[] {
+  const nodes: ReactNode[] = [];
+  let cursor = 0;
+
+  while (cursor < text.length) {
+    const markers = ['***', '**', '*']
+      .map((marker) => ({ marker, index: text.indexOf(marker, cursor) }))
+      .filter((item) => item.index !== -1)
+      .sort((a, b) => a.index - b.index || b.marker.length - a.marker.length);
+    const next = markers[0];
+
+    if (!next) {
+      nodes.push(text.slice(cursor));
+      break;
+    }
+
+    if (next.index > cursor) {
+      nodes.push(text.slice(cursor, next.index));
+    }
+
+    const contentStart = next.index + next.marker.length;
+    const contentEnd = text.indexOf(next.marker, contentStart);
+
+    if (contentEnd === -1) {
+      nodes.push(text.slice(next.index));
+      break;
+    }
+
+    const content = text.slice(contentStart, contentEnd);
+    const children = renderMarkdownInline(content, `${keyPrefix}-${nodes.length}`);
+
+    if (next.marker === '***') {
+      nodes.push(
+        <strong key={`${keyPrefix}-strong-em-${nodes.length}`} className="font-bold text-text-primary">
+          <em className="italic">{children}</em>
+        </strong>
+      );
+    } else if (next.marker === '**') {
+      nodes.push(
+        <strong key={`${keyPrefix}-strong-${nodes.length}`} className="font-bold text-text-primary">
+          {children}
+        </strong>
+      );
+    } else {
+      nodes.push(
+        <em key={`${keyPrefix}-em-${nodes.length}`} className="italic text-text-primary">
+          {children}
+        </em>
+      );
+    }
+
+    cursor = contentEnd + next.marker.length;
+  }
+
+  return nodes;
+}
+
+function renderInlineText(text: string) {
   return text.split(/(\[\[.*?\]\])/g).map((part, index) => {
     if (part.startsWith('[[') && part.endsWith(']]')) {
       const title = part.slice(2, -2);
@@ -22,14 +80,14 @@ function renderWikiText(text: string) {
       }
 
       return (
-        <Link key={linkedPost.slug} href={`/posts/${linkedPost.slug}`} className="font-mono text-neon-cyan underline decoration-neon-orange/70 decoration-wavy transition hover:text-neon-orange">
+        <Link key={`${linkedPost.slug}-${index}`} href={`/posts/${linkedPost.slug}`} className="font-mono text-neon-cyan underline decoration-neon-orange/70 decoration-wavy transition hover:text-neon-orange">
           {title}
           <span className="ml-1 text-[10px]">ref</span>
         </Link>
       );
     }
 
-    return part;
+    return renderMarkdownInline(part, `inline-${index}`);
   });
 }
 
@@ -38,7 +96,7 @@ function renderBlock(block: Post['body'][number], index: number) {
     case 'paragraph':
       return (
         <p key={index} className="text-lg leading-9 text-text-secondary">
-          {renderWikiText(block.text)}
+          {renderInlineText(block.text)}
         </p>
       );
     case 'heading':
@@ -50,14 +108,24 @@ function renderBlock(block: Post['body'][number], index: number) {
     case 'blockquote':
       return (
         <blockquote key={index} className="rounded-r-lg border-l-4 border-amber bg-paper p-7 font-display text-3xl italic leading-tight text-text-paper shadow-poster">
-          {renderWikiText(block.text)}
+          {renderInlineText(block.text)}
         </blockquote>
+      );
+    case 'list':
+      return (
+        <ul key={index} className="space-y-3 pl-6 text-lg leading-8 text-text-secondary">
+          {block.items.map((item, itemIndex) => (
+            <li key={`${item}-${itemIndex}`} className="list-disc marker:text-neon-orange">
+              {renderInlineText(item)}
+            </li>
+          ))}
+        </ul>
       );
     case 'callout':
       return (
         <aside key={index} className="cyan-panel rounded-lg border-2 border-neon-cyan bg-surface p-6">
           <p className="font-mono text-[10px] uppercase tracking-[0.24em] text-neon-cyan">{block.typeLabel}</p>
-          <p className="mt-3 font-display text-2xl italic leading-snug text-text-primary">{block.text}</p>
+          <p className="mt-3 font-display text-2xl italic leading-snug text-text-primary">{renderInlineText(block.text)}</p>
         </aside>
       );
     case 'code':
