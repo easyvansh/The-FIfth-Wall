@@ -9,28 +9,28 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        base: '#11100e',
-        surface: '#1a1815',
-        elevated: '#24201b',
-        paper: '#f8f1e3',
-        border: 'rgba(245, 234, 216, 0.12)',
-        ink: '#09070f',
+        base: 'rgb(var(--color-base) / <alpha-value>)',
+        surface: 'rgb(var(--color-surface) / <alpha-value>)',
+        elevated: 'rgb(var(--color-elevated) / <alpha-value>)',
+        paper: 'rgb(var(--color-paper) / <alpha-value>)',
+        border: 'rgb(var(--color-border) / var(--color-border-alpha))',
+        ink: 'rgb(var(--color-ink) / <alpha-value>)',
         neon: {
-          orange: '#ff4d00',
-          cyan: '#00c2ff',
-          violet: '#a855f7',
-          green: '#34d399'
+          orange: 'rgb(var(--color-neon-orange) / <alpha-value>)',
+          cyan: 'rgb(var(--color-neon-cyan) / <alpha-value>)',
+          violet: 'rgb(var(--color-neon-violet) / <alpha-value>)',
+          green: 'rgb(var(--color-neon-green) / <alpha-value>)'
         },
         text: {
-          primary: '#f5ead8',
-          secondary: '#b8aa94',
-          faint: '#7f725f',
-          paper: '#2a1f13'
+          primary: 'rgb(var(--color-text-primary) / <alpha-value>)',
+          secondary: 'rgb(var(--color-text-secondary) / <alpha-value>)',
+          faint: 'rgb(var(--color-text-faint) / <alpha-value>)',
+          paper: 'rgb(var(--color-text-paper) / <alpha-value>)'
         },
         amber: {
-          DEFAULT: '#d69b45',
-          light: '#f5c97a',
-          dim: '#7a4e18'
+          DEFAULT: 'rgb(var(--color-amber) / <alpha-value>)',
+          light: 'rgb(var(--color-amber-light) / <alpha-value>)',
+          dim: 'rgb(var(--color-amber-dim) / <alpha-value>)'
         },
         red: {
           deep: '#8b3828'
