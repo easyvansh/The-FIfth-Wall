@@ -1,6 +1,6 @@
 # Vansh Singh Atelier
 
-A cinematic personal blog for essays, fragments, projects, and notes on cinema, software, AI, philosophy, and modern life.
+A cinematic personal blog for essays, fragments, and notes on cinema, software, AI, philosophy, and modern life.
 
 The site is built from the plan in `PLAN.md`: readable long-form writing, short atomic fragments, topic pages, a newsletter entry point, and a warm dark visual system inspired by notebooks, cinema, and linked thinking.
 
@@ -9,7 +9,7 @@ The site is built from the plan in `PLAN.md`: readable long-form writing, short 
 - Next.js 15 App Router
 - TypeScript
 - Tailwind CSS
-- Static seed content in `lib/content.ts`
+- File-based content in `content/`
 
 ## Run Locally
 
@@ -35,10 +35,46 @@ The npm scripts include Node flags for this setup:
 
 ## Content
 
-For now, posts, fragments, tags, and projects live in:
+The writing and page copy live outside the app code:
 
 ```text
-lib/content.ts
+content/posts/*.md
+content/fragments/*.md
+content/site.json
+content/tags.json
+content/cinema-frames.json
+```
+
+`lib/content.ts` is now only the loader and type contract. To update the site, edit the files in `content/` and restart/rebuild the Next app.
+
+Essay and fragment Markdown files use JSON frontmatter:
+
+```md
+---
+{
+  "slug": "my-essay",
+  "title": "My Essay",
+  "subtitle": "Optional essay subtitle",
+  "excerpt": "Short archive summary.",
+  "category": "cinema",
+  "tags": ["cinema", "attention"],
+  "publishedAt": "May 21, 2026",
+  "readingTime": 6,
+  "featured": false,
+  "order": 5,
+  "marginNotes": [],
+  "backlinks": []
+}
+---
+Write the essay here.
+
+## Section headings work
+
+> Blockquotes work.
+
+:::callout Director note
+Callouts work too.
+:::
 ```
 
 Main routes:
@@ -48,7 +84,6 @@ Main routes:
 - `/posts/[slug]` - article page
 - `/fragments` - short notes
 - `/topics/[tag]` - topic archive
-- `/projects` - project archive
 - `/cinema` - cinema frames
 - `/newsletter` - subscribe page
 
