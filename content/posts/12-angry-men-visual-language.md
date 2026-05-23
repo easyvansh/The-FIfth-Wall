@@ -13,7 +13,7 @@
     "justice",
     "masculinity"
   ],
-  "publishedAt": "January 07, 2026",
+  "publishedAt": "January 07, 2022",
   "readingTime": 10,
   "featured": true,
   "coverImage": "https://preview.redd.it/just-finished-12-angry-men-what-an-iconic-scene-v0-n2r5un0yeuce1.jpeg?width=640&crop=smart&auto=webp&s=9695beaa0f68d48fffcde419c0752d75a2064619",

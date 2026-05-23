@@ -16,7 +16,7 @@
   "publishedAt": "February 08, 2022",
   "readingTime": 12,
   "featured": true,
-  "coverImage": "https://www.rogerebert.com/wp-content/uploads/2024/03/Casablanca.jpg",
+  "coverImage": "https://cinephiliabeyond.org/wp-content/uploads/2020/11/2-2.jpg",
   "order": 1,
   "marginNotes": [
     {

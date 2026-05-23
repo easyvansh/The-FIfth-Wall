@@ -17,7 +17,7 @@
   "publishedAt": "January 14, 2022",
   "readingTime": 13,
   "featured": true,
-  "coverImage": "https://www.rogerebert.com/wp-content/uploads/2024/07/The-Wes-Anderson-Collection-Chapter-7-Moonrise-Kingdom.png",
+  "coverImage": "https://nofilmschool.com/media-library/moonrise-kingdom-0.jpg?id=34078534&width=1200&height=600&coordinates=0%2C0%2C0%2C401",
   "order": 5,
   "marginNotes": [
     {
