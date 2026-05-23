@@ -274,6 +274,7 @@ function parsePostBody(markdown: string): PostBodyBlock[] {
 const tags = readJsonFile<Tag[]>('tags.json');
 const siteContent = readJsonFile<SiteContent>('site.json');
 const cinemaFrames = readJsonFile<CinemaFrame[]>('cinema-frames.json');
+const pinnedHomePostSlug = 'baadasssss-independent-black-cinema-resistance';
 
 const posts = readMarkdownDirectory<Record<string, unknown>>('posts', (meta, markdown) => ({
   slug: String(meta.slug),
@@ -310,7 +311,7 @@ export function getAllPosts() {
 }
 
 export function getFeaturedPost() {
-  return posts.find((post) => post.featured) ?? posts[0];
+  return posts.find((post) => post.slug === pinnedHomePostSlug) ?? posts.find((post) => post.featured) ?? posts[0];
 }
 
 export function getPostBySlug(slug: string) {
