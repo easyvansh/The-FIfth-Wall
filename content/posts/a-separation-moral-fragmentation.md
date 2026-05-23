@@ -1,42 +1,57 @@
 ---
-slug: "a-separation-moral-fragmentation"
-title: "Separation Beyond Divorce: Moral Fragmentation and Social Anxiety in A Separation"
-subtitle: "Asghar Farhadi’s masterpiece turns divorce into a metaphor for ideological fracture, moral ambiguity, and emotional suffocation."
-excerpt: "A Separation is not merely a film about divorce. It is a film about the impossibility of moral purity within systems built upon pressure, silence, class anxiety, and emotional compromise."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "a-separation-moral-fragmentation",
+  "title": "Separation Beyond Divorce: Moral Fragmentation and Social Anxiety in A Separation",
+  "subtitle": "Asghar Farhadi’s masterpiece turns divorce into a metaphor for ideological fracture, moral ambiguity, and emotional suffocation.",
+  "excerpt": "A Separation is not merely a film about divorce. It is a film about the impossibility of moral purity within systems built upon pressure, silence, class anxiety, and emotional compromise.",
+  "category": "cinema",
+  "tags": [
     "iranian cinema",
     "film theory",
     "asghar farhadi",
     "psychoanalysis",
     "morality",
-    "social realism",
-  ]
-publishedAt: "March 10, 2022"
-readingTime: 13
-featured: true
-coverImage: "https://media.newyorker.com/photos/590954da2179605b11ad407d/master/pass/img_12337.jpg"
-order: 2
-
-marginNotes:
-  - anchorText: "emotional and ideological fractures deepen"
-    note: "The divorce becomes merely the visible surface of a much larger societal fragmentation."
-
-  - anchorText: "institutional gaze of authority"
-    note: "Farhadi immediately positions the viewer inside systems of judgment rather than outside them."
-
-  - anchorText: "truth itself becomes unstable"
-    note: "The film refuses moral certainty. Every perspective feels emotionally valid yet ethically incomplete."
-
-  - anchorText: "narrative holes"
-    note: "Farhadi weaponizes missing information to force the audience into moral participation."
-
-  - anchorText: "Masculinity in crisis"
-    note: "Nader’s authority gradually collapses under pressure, exposing fragility beneath patriarchal structure."
-
-  - anchorText: "separation from an event into a condition of existence itself"
-    note: "The title ultimately transcends divorce and becomes existential."
+    "social realism"
+  ],
+  "publishedAt": "March 10, 2022",
+  "readingTime": 13,
+  "featured": true,
+  "coverImage": "https://media.newyorker.com/photos/590954da2179605b11ad407d/master/pass/img_12337.jpg",
+  "order": 2,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "emotional and ideological fractures deepen",
+      "note": "The divorce becomes merely the visible surface of a much larger societal fragmentation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "institutional gaze of authority",
+      "note": "Farhadi immediately positions the viewer inside systems of judgment rather than outside them."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "truth itself becomes unstable",
+      "note": "The film refuses moral certainty. Every perspective feels emotionally valid yet ethically incomplete."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "narrative holes",
+      "note": "Farhadi weaponizes missing information to force the audience into moral participation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Masculinity in crisis",
+      "note": "Nader’s authority gradually collapses under pressure, exposing fragility beneath patriarchal structure."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "separation from an event into a condition of existence itself",
+      "note": "The title ultimately transcends divorce and becomes existential."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *A Separation* — Original Essay

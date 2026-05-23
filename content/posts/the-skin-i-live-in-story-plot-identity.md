@@ -1,43 +1,58 @@
 ---
-slug: "the-skin-i-live-in-story-plot-identity"
-title: "The Skin I Live In — Story, Plot, and the Horror of Reconstructed Identity"
-subtitle: "Pedro Almodóvar transforms bodily transformation into psychological horror through fragmented narrative structure and ethical instability."
-excerpt: "The Skin I Live In is not horrifying simply because of bodily violence. Its true horror emerges through narrative revelation itself, where delayed information forces the audience to reorganize identity, morality, and spectatorship retroactively."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "the-skin-i-live-in-story-plot-identity",
+  "title": "The Skin I Live In — Story, Plot, and the Horror of Reconstructed Identity",
+  "subtitle": "Pedro Almodóvar transforms bodily transformation into psychological horror through fragmented narrative structure and ethical instability.",
+  "excerpt": "The Skin I Live In is not horrifying simply because of bodily violence. Its true horror emerges through narrative revelation itself, where delayed information forces the audience to reorganize identity, morality, and spectatorship retroactively.",
+  "category": "cinema",
+  "tags": [
     "pedro almodovar",
     "body horror",
     "film theory",
     "psychoanalysis",
     "identity",
     "narrative structure",
-    "horror cinema",
-  ]
-publishedAt: "March 25, 2022"
-readingTime: 15
-featured: true
-coverImage: "https://m.media-amazon.com/images/M/MV5BMTgzMjg2MDU0MF5BMl5BanBnXkFtZTcwNTc0MDMxNg@@._V1_.jpg"
-order: 10
-
-marginNotes:
-  - anchorText: "the body itself becomes a site of horror"
-    note: "The film transforms identity into something surgically mutable and psychologically unstable."
-
-  - anchorText: "the mirror into an instrument of horror"
-    note: "Lacan’s mirror stage collapses when self-recognition becomes impossible."
-
-  - anchorText: "the flashback sequence violently reframes the entire narrative"
-    note: "Plot structure itself becomes the mechanism of horror."
-
-  - anchorText: "alignment and allegiance"
-    note: "The audience’s moral sympathy shifts radically through delayed revelation."
-
-  - anchorText: "Vera’s body is constructed through patriarchal violence"
-    note: "Barbara Creed’s monstrous-feminine becomes relevant through forced bodily reconstruction."
-
-  - anchorText: "identity itself can be reconstructed, manipulated, and imprisoned"
-    note: "The film’s deepest horror lies in the fragility of embodied selfhood."
+    "horror cinema"
+  ],
+  "publishedAt": "March 25, 2022",
+  "readingTime": 15,
+  "featured": true,
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BMTgzMjg2MDU0MF5BMl5BanBnXkFtZTcwNTc0MDMxNg@@._V1_.jpg",
+  "order": 10,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "the body itself becomes a site of horror",
+      "note": "The film transforms identity into something surgically mutable and psychologically unstable."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the mirror into an instrument of horror",
+      "note": "Lacan’s mirror stage collapses when self-recognition becomes impossible."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the flashback sequence violently reframes the entire narrative",
+      "note": "Plot structure itself becomes the mechanism of horror."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "alignment and allegiance",
+      "note": "The audience’s moral sympathy shifts radically through delayed revelation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Vera’s body is constructed through patriarchal violence",
+      "note": "Barbara Creed’s monstrous-feminine becomes relevant through forced bodily reconstruction."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "identity itself can be reconstructed, manipulated, and imprisoned",
+      "note": "The film’s deepest horror lies in the fragility of embodied selfhood."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *The Skin I Live In* — Story, Plot, and the Horror of Reconstructed Identity

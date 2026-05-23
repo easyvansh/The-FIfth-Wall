@@ -1,43 +1,58 @@
 ---
-slug: "rashomon-light-memory-truth"
-title: "Rashomon — Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth"
-subtitle: "Akira Kurosawa transforms fractured testimony into cinematic philosophy through light, movement, rhythm, and spatial instability."
-excerpt: "Rashomon is not simply a murder mystery. It is a film about the terrifying human tendency to aestheticize truth in order to protect the ego. Every testimony becomes self-mythology disguised as memory."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "rashomon-light-memory-truth",
+  "title": "Rashomon — Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth",
+  "subtitle": "Akira Kurosawa transforms fractured testimony into cinematic philosophy through light, movement, rhythm, and spatial instability.",
+  "excerpt": "Rashomon is not simply a murder mystery. It is a film about the terrifying human tendency to aestheticize truth in order to protect the ego. Every testimony becomes self-mythology disguised as memory.",
+  "category": "cinema",
+  "tags": [
     "akira kurosawa",
     "rashomon",
     "film theory",
     "cinematography",
     "memory",
     "psychoanalysis",
-    "japanese cinema",
-  ]
-publishedAt: "February 25, 2022"
-readingTime: 15
-featured: true
-coverImage: "https://scenebygreen.com/wp-content/uploads/2022/09/screenshotter-untitledfromottvideosonvimeo-5411.jpg"
-order: 6
-
-marginNotes:
-  - anchorText: "aestheticize truth in order to protect the ego"
-    note: "Every testimony in the film functions less as objective recollection and more as self-preservation."
-
-  - anchorText: "The forest in Rashomon is not geography. It is epistemology."
-    note: "Kurosawa transforms physical space into philosophical uncertainty."
-
-  - anchorText: "human beings aestheticize themselves in memory"
-    note: "The film suggests that memory is always partially performance."
-
-  - anchorText: "The camera does not merely record the duel. It participates in Tajōmaru’s fantasy of dominance."
-    note: "Style itself becomes subjective narration."
-
-  - anchorText: "The closer the film approaches truth, the less cinematic elegance remains."
-    note: "Kurosawa deliberately strips away heroic aesthetics as reality emerges."
-
-  - anchorText: "people lie most convincingly when they are trying to protect the story they tell themselves"
-    note: "The film’s psychological insight remains disturbingly modern."
+    "japanese cinema"
+  ],
+  "publishedAt": "February 25, 2022",
+  "readingTime": 15,
+  "featured": true,
+  "coverImage": "https://scenebygreen.com/wp-content/uploads/2022/09/screenshotter-untitledfromottvideosonvimeo-5411.jpg",
+  "order": 6,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "aestheticize truth in order to protect the ego",
+      "note": "Every testimony in the film functions less as objective recollection and more as self-preservation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The forest in Rashomon is not geography. It is epistemology.",
+      "note": "Kurosawa transforms physical space into philosophical uncertainty."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "human beings aestheticize themselves in memory",
+      "note": "The film suggests that memory is always partially performance."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The camera does not merely record the duel. It participates in Tajōmaru’s fantasy of dominance.",
+      "note": "Style itself becomes subjective narration."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The closer the film approaches truth, the less cinematic elegance remains.",
+      "note": "Kurosawa deliberately strips away heroic aesthetics as reality emerges."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "people lie most convincingly when they are trying to protect the story they tell themselves",
+      "note": "The film’s psychological insight remains disturbingly modern."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Rashomon* — Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth

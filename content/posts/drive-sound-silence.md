@@ -1,43 +1,58 @@
 ---
-slug: "drive-sound-silence-violence"
-title: "Drive — Sound, Silence, and the Violence Beneath the Fantasy"
-subtitle: "Nicolas Winding Refn transforms synth music, silence, and sonic transitions into psychological architecture."
-excerpt: "Drive understands that tension is not created only through what we see, but through what we hear, almost hear, and suddenly stop hearing. Beneath the synth-wave fantasy lies a film about violence collapsing romantic illusion."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "drive-sound-silence-violence",
+  "title": "Drive — Sound, Silence, and the Violence Beneath the Fantasy",
+  "subtitle": "Nicolas Winding Refn transforms synth music, silence, and sonic transitions into psychological architecture.",
+  "excerpt": "Drive understands that tension is not created only through what we see, but through what we hear, almost hear, and suddenly stop hearing. Beneath the synth-wave fantasy lies a film about violence collapsing romantic illusion.",
+  "category": "cinema",
+  "tags": [
     "drive",
     "nicolas winding refn",
     "sound design",
     "film theory",
     "cinematography",
     "neo noir",
-    "trans-diegetic sound",
-  ]
-publishedAt: "March 10, 2022"
-readingTime: 14
-featured: true
-coverImage: "https://variety.com/wp-content/uploads/2018/10/drive.jpg"
-order: 9
-
-marginNotes:
-  - anchorText: "sound constantly shifts between reality and emotional fantasy"
-    note: "Refn uses sound not simply atmospherically, but psychologically."
-
-  - anchorText: "trans-diegetic sound"
-    note: "Music slides between the physical world and emotional interiority."
-
-  - anchorText: "The Driver no longer feels mythic. He feels vulnerable."
-    note: "The disappearance of music collapses cinematic fantasy into material danger."
-
-  - anchorText: "The synth music represents the dream. The diegetic violence represents the body."
-    note: "The film’s sonic structure mirrors the Driver’s fractured psychology."
-
-  - anchorText: "The “hero” and the “monster” become inseparable"
-    note: "The elevator scene destroys the fantasy of moral separation."
-
-  - anchorText: "the film briefly allows us to experience his violence through beauty"
-    note: "Refn weaponizes aesthetic pleasure before exposing brutality beneath it."
+    "trans-diegetic sound"
+  ],
+  "publishedAt": "March 10, 2022",
+  "readingTime": 14,
+  "featured": true,
+  "coverImage": "https://variety.com/wp-content/uploads/2018/10/drive.jpg",
+  "order": 9,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "sound constantly shifts between reality and emotional fantasy",
+      "note": "Refn uses sound not simply atmospherically, but psychologically."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "trans-diegetic sound",
+      "note": "Music slides between the physical world and emotional interiority."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The Driver no longer feels mythic. He feels vulnerable.",
+      "note": "The disappearance of music collapses cinematic fantasy into material danger."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The synth music represents the dream. The diegetic violence represents the body.",
+      "note": "The film’s sonic structure mirrors the Driver’s fractured psychology."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The “hero” and the “monster” become inseparable",
+      "note": "The elevator scene destroys the fantasy of moral separation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the film briefly allows us to experience his violence through beauty",
+      "note": "Refn weaponizes aesthetic pleasure before exposing brutality beneath it."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Drive* — Sound, Silence, and the Violence Beneath the Fantasy

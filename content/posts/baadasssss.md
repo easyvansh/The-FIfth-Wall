@@ -1,43 +1,58 @@
 ---
-slug: "baadasssss-independent-black-cinema-resistance"
-title: "Baadasssss!, Independent Black Cinema, and the Politics of Resistance"
-subtitle: "Mario Van Peebles reconstructs the making of Sweet Sweetback’s Baadasssss Song as a battle against industrial racism, financial exclusion, and cinematic control."
-excerpt: "Baadasssss! reveals that independent Black filmmaking in America was never simply an artistic struggle. It was a confrontation with the economic, racial, and institutional systems controlling who was allowed to create images in Hollywood."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "baadasssss-independent-black-cinema-resistance",
+  "title": "Baadasssss!, Independent Black Cinema, and the Politics of Resistance",
+  "subtitle": "Mario Van Peebles reconstructs the making of Sweet Sweetback’s Baadasssss Song as a battle against industrial racism, financial exclusion, and cinematic control.",
+  "excerpt": "Baadasssss! reveals that independent Black filmmaking in America was never simply an artistic struggle. It was a confrontation with the economic, racial, and institutional systems controlling who was allowed to create images in Hollywood.",
+  "category": "cinema",
+  "tags": [
     "baadasssss",
     "melvin van peebles",
     "black cinema",
     "independent cinema",
     "film industry",
     "representation",
-    "blaxploitation",
-  ]
-publishedAt: "April 23, 2022"
-readingTime: 17
-featured: true
-coverImage: "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7545-/w26NyIYo7lN4nVD0HZkQRSuZs5yttc_original.jpg"
-order: 14
-
-marginNotes:
-  - anchorText: "financing itself becomes ideological"
-    note: "Studios do not simply fund films financially — they regulate cultural visibility."
-
-  - anchorText: "independence frequently emerges from exclusion"
-    note: "The film dismantles romantic myths surrounding independent filmmaking."
-
-  - anchorText: "guerrilla filmmaking"
-    note: "Improvisation becomes survival strategy rather than aesthetic preference."
-
-  - anchorText: "The production effectively becomes an act of collective resistance"
-    note: "Community solidarity replaces institutional support."
-
-  - anchorText: "material conditions directly shape cinematic form"
-    note: "The aesthetics of Sweetback emerge partly from economic necessity."
-
-  - anchorText: "They are not facing artistic criticism. They are facing industrial control."
-    note: "The struggle becomes systemic rather than personal."
+    "blaxploitation"
+  ],
+  "publishedAt": "April 23, 2022",
+  "readingTime": 17,
+  "featured": true,
+  "coverImage": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7545-/w26NyIYo7lN4nVD0HZkQRSuZs5yttc_original.jpg",
+  "order": 14,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "financing itself becomes ideological",
+      "note": "Studios do not simply fund films financially — they regulate cultural visibility."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "independence frequently emerges from exclusion",
+      "note": "The film dismantles romantic myths surrounding independent filmmaking."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "guerrilla filmmaking",
+      "note": "Improvisation becomes survival strategy rather than aesthetic preference."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The production effectively becomes an act of collective resistance",
+      "note": "Community solidarity replaces institutional support."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "material conditions directly shape cinematic form",
+      "note": "The aesthetics of Sweetback emerge partly from economic necessity."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "They are not facing artistic criticism. They are facing industrial control.",
+      "note": "The struggle becomes systemic rather than personal."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Baadasssss!*, Independent Black Cinema, and the Politics of Resistance

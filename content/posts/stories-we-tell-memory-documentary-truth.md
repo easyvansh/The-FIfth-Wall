@@ -1,43 +1,58 @@
 ---
-slug: "stories-we-tell-memory-documentary-truth"
-title: "Stories We Tell — Memory, Performance, and the Instability of Documentary Truth"
-subtitle: "Sarah Polley transforms documentary cinema into an investigation of memory, narration, reconstruction, and emotional subjectivity."
-excerpt: "Stories We Tell refuses the fantasy that documentaries simply capture reality objectively. Instead, Sarah Polley reveals how memory itself functions through performance, reconstruction, omission, and emotional narration."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "stories-we-tell-memory-documentary-truth",
+  "title": "Stories We Tell — Memory, Performance, and the Instability of Documentary Truth",
+  "subtitle": "Sarah Polley transforms documentary cinema into an investigation of memory, narration, reconstruction, and emotional subjectivity.",
+  "excerpt": "Stories We Tell refuses the fantasy that documentaries simply capture reality objectively. Instead, Sarah Polley reveals how memory itself functions through performance, reconstruction, omission, and emotional narration.",
+  "category": "cinema",
+  "tags": [
     "sarah polley",
     "documentary cinema",
     "film theory",
     "memory",
     "stories we tell",
     "bill nichols",
-    "reflexive documentary",
-  ]
-publishedAt: "April 18, 2022"
-readingTime: 16
-featured: true
-coverImage: "https://m.media-amazon.com/images/S/pv-target-images/f5a85d732bc7ad2979851770e3339f7ec741a39024ca6f90842b4ce2deeabf4a._SX1080_FMjpg_.jpg"
-order: 15
-
-marginNotes:
-  - anchorText: "the film is not simply attempting to uncover factual truth"
-    note: "Polley interrogates whether objective truth can ever exist once memory becomes narration."
-
-  - anchorText: "all memory is partially constructed"
-    note: "The recreated footage visualizes how human beings reconstruct the past emotionally."
-
-  - anchorText: "Who gets to tell the story?"
-    note: "The documentary repeatedly questions authority over family memory."
-
-  - anchorText: "The image itself remains unchanged. Only the narration changes."
-    note: "Meaning emerges through framing rather than objective visual evidence."
-
-  - anchorText: "The documentary never pretends the camera is invisible"
-    note: "Participation itself becomes part of the film’s truth."
-
-  - anchorText: "They are stories we tell in order to live with reality afterward"
-    note: "Memory becomes emotional survival rather than factual preservation."
+    "reflexive documentary"
+  ],
+  "publishedAt": "April 18, 2022",
+  "readingTime": 16,
+  "featured": true,
+  "coverImage": "https://m.media-amazon.com/images/S/pv-target-images/f5a85d732bc7ad2979851770e3339f7ec741a39024ca6f90842b4ce2deeabf4a._SX1080_FMjpg_.jpg",
+  "order": 15,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "the film is not simply attempting to uncover factual truth",
+      "note": "Polley interrogates whether objective truth can ever exist once memory becomes narration."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "all memory is partially constructed",
+      "note": "The recreated footage visualizes how human beings reconstruct the past emotionally."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Who gets to tell the story?",
+      "note": "The documentary repeatedly questions authority over family memory."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The image itself remains unchanged. Only the narration changes.",
+      "note": "Meaning emerges through framing rather than objective visual evidence."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The documentary never pretends the camera is invisible",
+      "note": "Participation itself becomes part of the film’s truth."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "They are stories we tell in order to live with reality afterward",
+      "note": "Memory becomes emotional survival rather than factual preservation."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Stories We Tell* — Memory, Performance, and the Instability of Documentary Truth

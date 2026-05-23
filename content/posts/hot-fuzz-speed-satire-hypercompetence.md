@@ -1,43 +1,58 @@
 ---
-slug: "hot-fuzz-speed-satire-hypercompetence"
-title: "Hot Fuzz — Speed, Satire, and the Editing of Hypercompetence"
-subtitle: "Edgar Wright transforms action-movie editing into comedy, turning paperwork, train rides, and village policing into cinematic warfare."
-excerpt: "Hot Fuzz works because Edgar Wright genuinely understands the genre he is parodying. The film weaponizes montage, sound, and visual compression to expose how action cinema mythologizes masculine competence."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "hot-fuzz-speed-satire-hypercompetence",
+  "title": "Hot Fuzz — Speed, Satire, and the Editing of Hypercompetence",
+  "subtitle": "Edgar Wright transforms action-movie editing into comedy, turning paperwork, train rides, and village policing into cinematic warfare.",
+  "excerpt": "Hot Fuzz works because Edgar Wright genuinely understands the genre he is parodying. The film weaponizes montage, sound, and visual compression to expose how action cinema mythologizes masculine competence.",
+  "category": "cinema",
+  "tags": [
     "edgar wright",
     "hot fuzz",
     "editing",
     "film theory",
     "action cinema",
     "comedy",
-    "montage",
-  ]
-publishedAt: "February 18, 2022"
-readingTime: 13
-featured: true
-coverImage: "https://m.media-amazon.com/images/M/MV5BOTJhNzg2NjMtYTUzZS00M2NkLTg4NjQtYWU0YWU2MDMwMDRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg"
-order: 8
-
-marginNotes:
-  - anchorText: "He genuinely loves the visual language of action cinema"
-    note: "The parody works because Wright reconstructs genre form rather than simply mocking clichés."
-
-  - anchorText: "Angel barely feels human initially. He feels edited."
-    note: "Nicholas Angel is introduced less as a person and more as a cinematic construction of competence."
-
-  - anchorText: "paperwork receives action-movie editing"
-    note: "Wright inflates mundane actions into spectacle through montage rhythm and sound design."
-
-  - anchorText: "The montage feels mechanical"
-    note: "The transfer sequence visualizes emotional displacement through repetitive transitions."
-
-  - anchorText: "Wright weaponizes that familiarity for comedy"
-    note: "The film relies on audiences already understanding action-film grammar instinctively."
-
-  - anchorText: "cinema itself can be funny long before a punchline arrives"
-    note: "Editing rhythm becomes the primary comedic system of the film."
+    "montage"
+  ],
+  "publishedAt": "February 18, 2022",
+  "readingTime": 13,
+  "featured": true,
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BOTJhNzg2NjMtYTUzZS00M2NkLTg4NjQtYWU0YWU2MDMwMDRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+  "order": 8,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "He genuinely loves the visual language of action cinema",
+      "note": "The parody works because Wright reconstructs genre form rather than simply mocking clichés."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Angel barely feels human initially. He feels edited.",
+      "note": "Nicholas Angel is introduced less as a person and more as a cinematic construction of competence."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "paperwork receives action-movie editing",
+      "note": "Wright inflates mundane actions into spectacle through montage rhythm and sound design."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The montage feels mechanical",
+      "note": "The transfer sequence visualizes emotional displacement through repetitive transitions."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Wright weaponizes that familiarity for comedy",
+      "note": "The film relies on audiences already understanding action-film grammar instinctively."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "cinema itself can be funny long before a punchline arrives",
+      "note": "Editing rhythm becomes the primary comedic system of the film."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Hot Fuzz* — Speed, Satire, and the Editing of Hypercompetence

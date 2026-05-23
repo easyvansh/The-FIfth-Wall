@@ -1,43 +1,58 @@
 ---
-slug: "us-sound-doubles-american-horror"
-title: "Us — Sound, Doubles, and the Horror Beneath the American Dream"
-subtitle: "Jordan Peele transforms mirrors, sound design, and visual doubles into a psychological and political nightmare about identity, repression, and America itself."
-excerpt: "Us is not simply a home-invasion horror film. It is a cinematic meditation on repression, duality, and the terrifying realization that the monster may already be embedded within the structure of ordinary American life."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "us-sound-doubles-american-horror",
+  "title": "Us — Sound, Doubles, and the Horror Beneath the American Dream",
+  "subtitle": "Jordan Peele transforms mirrors, sound design, and visual doubles into a psychological and political nightmare about identity, repression, and America itself.",
+  "excerpt": "Us is not simply a home-invasion horror film. It is a cinematic meditation on repression, duality, and the terrifying realization that the monster may already be embedded within the structure of ordinary American life.",
+  "category": "cinema",
+  "tags": [
     "jordan peele",
     "us",
     "horror cinema",
     "film theory",
     "psychoanalysis",
     "sound design",
-    "american cinema",
-  ]
-publishedAt: "Arpil 4, 2022"
-readingTime: 14
-featured: true
-coverImage: "https://m.media-amazon.com/images/M/MV5BYzc4M2U2NTgtYTkyZi00YjI1LTk2YzItNGY0OTBlNGNiNTk1XkEyXkFqcGdeQWpnYW1i._V1_.jpg"
-order: 11
-
-marginNotes:
-  - anchorText: "movement from ordinary reality into psychological dread"
-    note: "Peele often transitions horror through sound before visual confirmation."
-
-  - anchorText: "We are Americans"
-    note: "The line reframes the Tethered as products of national repression rather than external monsters."
-
-  - anchorText: "the monster as the return of the repressed"
-    note: "Robin Wood’s horror theory becomes central to understanding the Tethered."
-
-  - anchorText: "the uncanny emerges when something hidden returns"
-    note: "Freud’s uncanny explains why the doubles feel psychologically terrifying."
-
-  - anchorText: "identity in the film is performative and unstable"
-    note: "The final reveal destroys the illusion of fixed moral identity."
-
-  - anchorText: "the horror may already be embedded within the structure of ordinary American life"
-    note: "Peele transforms social inequality into horror mythology."
+    "american cinema"
+  ],
+  "publishedAt": "Arpil 4, 2022",
+  "readingTime": 14,
+  "featured": true,
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BYzc4M2U2NTgtYTkyZi00YjI1LTk2YzItNGY0OTBlNGNiNTk1XkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+  "order": 11,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "movement from ordinary reality into psychological dread",
+      "note": "Peele often transitions horror through sound before visual confirmation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "We are Americans",
+      "note": "The line reframes the Tethered as products of national repression rather than external monsters."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the monster as the return of the repressed",
+      "note": "Robin Wood’s horror theory becomes central to understanding the Tethered."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the uncanny emerges when something hidden returns",
+      "note": "Freud’s uncanny explains why the doubles feel psychologically terrifying."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "identity in the film is performative and unstable",
+      "note": "The final reveal destroys the illusion of fixed moral identity."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the horror may already be embedded within the structure of ordinary American life",
+      "note": "Peele transforms social inequality into horror mythology."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Us* — Sound, Doubles, and the Horror Beneath the American Dream

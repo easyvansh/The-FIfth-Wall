@@ -1,42 +1,57 @@
 ---
-slug: "12-angry-men-visual-language"
-title: "12 Angry Men and the Slow Collapse of Certainty"
-subtitle: "Sidney Lumet transforms a single jury room into a psychological battlefield where prejudice quietly contaminates justice."
-excerpt: "12 Angry Men is not simply a courtroom drama. It is a study of how ego, bias, masculinity, and emotional projection infect systems that pretend to operate on reason alone."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "12-angry-men-visual-language",
+  "title": "12 Angry Men and the Slow Collapse of Certainty",
+  "subtitle": "Sidney Lumet transforms a single jury room into a psychological battlefield where prejudice quietly contaminates justice.",
+  "excerpt": "12 Angry Men is not simply a courtroom drama. It is a study of how ego, bias, masculinity, and emotional projection infect systems that pretend to operate on reason alone.",
+  "category": "cinema",
+  "tags": [
     "sidney lumet",
     "cinema",
     "film theory",
     "psychology",
     "justice",
-    "masculinity",
-  ]
-publishedAt: "January 07, 2026"
-readingTime: 10
-featured: true
-coverImage: "https://preview.redd.it/just-finished-12-angry-men-what-an-iconic-scene-v0-n2r5un0yeuce1.jpeg?width=640&crop=smart&auto=webp&s=9695beaa0f68d48fffcde419c0752d75a2064619"
-order: 3
-
-marginNotes:
-  - anchorText: "psychological battlefield"
-    note: "The film weaponizes conversation itself. Dialogue becomes conflict."
-
-  - anchorText: "facts from fancy"
-    note: "The irony is that almost every juror operates emotionally rather than rationally."
-
-  - anchorText: "the heat matters"
-    note: "Lumet turns environmental discomfort into psychological pressure."
-
-  - anchorText: "certainty itself should be questioned"
-    note: "Juror #8’s radicalism lies not in certainty of innocence, but humility toward uncertainty."
-
-  - anchorText: "Masculinity in crisis"
-    note: "The jury room becomes a performance space where men defend ego through aggression and certainty."
-
-  - anchorText: "What if we’re wrong?"
-    note: "The line becomes the moral center of the entire film."
+    "masculinity"
+  ],
+  "publishedAt": "January 07, 2026",
+  "readingTime": 10,
+  "featured": true,
+  "coverImage": "https://preview.redd.it/just-finished-12-angry-men-what-an-iconic-scene-v0-n2r5un0yeuce1.jpeg?width=640&crop=smart&auto=webp&s=9695beaa0f68d48fffcde419c0752d75a2064619",
+  "order": 3,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "psychological battlefield",
+      "note": "The film weaponizes conversation itself. Dialogue becomes conflict."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "facts from fancy",
+      "note": "The irony is that almost every juror operates emotionally rather than rationally."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the heat matters",
+      "note": "Lumet turns environmental discomfort into psychological pressure."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "certainty itself should be questioned",
+      "note": "Juror #8’s radicalism lies not in certainty of innocence, but humility toward uncertainty."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Masculinity in crisis",
+      "note": "The jury room becomes a performance space where men defend ego through aggression and certainty."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "What if we’re wrong?",
+      "note": "The line becomes the moral center of the entire film."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *12 Angry Men* — Visual Language and the Slow Collapse of Certainty

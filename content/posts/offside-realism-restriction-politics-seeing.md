@@ -1,43 +1,58 @@
 ---
-slug: "offside-realism-restriction-politics-seeing"
-title: "Offside — Realism, Restriction, and the Politics of Seeing"
-subtitle: "Jafar Panahi transforms exclusion, waiting, and ordinary bureaucracy into one of cinema’s quietest and most devastating political critiques."
-excerpt: "Offside understands that authoritarian systems often operate not through spectacle, but through procedure. Its realism becomes politically powerful precisely because the oppression it depicts feels painfully ordinary."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "offside-realism-restriction-politics-seeing",
+  "title": "Offside — Realism, Restriction, and the Politics of Seeing",
+  "subtitle": "Jafar Panahi transforms exclusion, waiting, and ordinary bureaucracy into one of cinema’s quietest and most devastating political critiques.",
+  "excerpt": "Offside understands that authoritarian systems often operate not through spectacle, but through procedure. Its realism becomes politically powerful precisely because the oppression it depicts feels painfully ordinary.",
+  "category": "cinema",
+  "tags": [
     "jafar panahi",
     "iranian cinema",
     "realism",
     "italian neorealism",
     "film theory",
     "political cinema",
-    "offside",
-  ]
-publishedAt: "May 23, 2026"
-readingTime: 15
-featured: true
-coverImage: "https://images.mubicdn.net/images/film/1200/cache-8674-1745489521/image-w1280.jpg"
-order: 13
-
-marginNotes:
-  - anchorText: "the realism in the film is ideological"
-    note: "Panahi uses realism not as aesthetic decoration, but as political method."
-
-  - anchorText: "The audience experiences the match exactly as the girls do"
-    note: "Formal restriction mirrors social exclusion."
-
-  - anchorText: "life rarely organizes itself around dramatic efficiency"
-    note: "Panahi embraces boredom, delay, and distraction to preserve realism."
-
-  - anchorText: "the camera behaves less like a storyteller and more like a witness"
-    note: "Observation replaces manipulation throughout the film."
-
-  - anchorText: "They are not imprisoned violently, but spatially"
-    note: "Oppression in Offside appears bureaucratic and banal rather than spectacular."
-
-  - anchorText: "They are facing procedure"
-    note: "The film’s horror emerges through systems that normalize exclusion."
+    "offside"
+  ],
+  "publishedAt": "May 23, 2026",
+  "readingTime": 15,
+  "featured": true,
+  "coverImage": "https://images.mubicdn.net/images/film/1200/cache-8674-1745489521/image-w1280.jpg",
+  "order": 13,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "the realism in the film is ideological",
+      "note": "Panahi uses realism not as aesthetic decoration, but as political method."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The audience experiences the match exactly as the girls do",
+      "note": "Formal restriction mirrors social exclusion."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "life rarely organizes itself around dramatic efficiency",
+      "note": "Panahi embraces boredom, delay, and distraction to preserve realism."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "the camera behaves less like a storyteller and more like a witness",
+      "note": "Observation replaces manipulation throughout the film."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "They are not imprisoned violently, but spatially",
+      "note": "Oppression in Offside appears bureaucratic and banal rather than spectacular."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "They are facing procedure",
+      "note": "The film’s horror emerges through systems that normalize exclusion."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Offside* — Realism, Restriction, and the Politics of Seeing

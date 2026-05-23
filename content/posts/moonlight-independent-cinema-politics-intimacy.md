@@ -1,43 +1,58 @@
 ---
-slug: "moonlight-independent-cinema-politics-intimacy"
-title: "Moonlight, Independent Cinema, and the Politics of Intimacy"
-subtitle: "Barry Jenkins transforms silence, vulnerability, and fragmented identity into one of the defining works of contemporary American independent cinema."
-excerpt: "Moonlight does not achieve universality by flattening specificity. Instead, Barry Jenkins reveals how emotionally expansive a deeply particular life already is."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "moonlight-independent-cinema-politics-intimacy",
+  "title": "Moonlight, Independent Cinema, and the Politics of Intimacy",
+  "subtitle": "Barry Jenkins transforms silence, vulnerability, and fragmented identity into one of the defining works of contemporary American independent cinema.",
+  "excerpt": "Moonlight does not achieve universality by flattening specificity. Instead, Barry Jenkins reveals how emotionally expansive a deeply particular life already is.",
+  "category": "cinema",
+  "tags": [
     "moonlight",
     "barry jenkins",
     "independent cinema",
     "black cinema",
     "queer cinema",
     "film theory",
-    "a24",
-  ]
-publishedAt: "April 19, 2025"
-readingTime: 16
-featured: true
-coverImage: "https://nofilmschool.com/media-library/moonlight-blue.png?id=34078965&width=1245&height=700&coordinates=207%2C0%2C141%2C0"
-order: 12
-
-marginNotes:
-  - anchorText: "a cinema of vulnerability and silence"
-    note: "Jenkins rejects dominant representations of Black masculinity rooted in spectacle and aggression."
-
-  - anchorText: "The film resists the spectacle of the Other"
-    note: "Stuart Hall’s representation theory becomes central to understanding Moonlight’s politics."
-
-  - anchorText: "The missing years become emotional voids"
-    note: "Narrative ellipses mirror Chiron’s fractured psychological identity."
-
-  - anchorText: "Black becomes less a true identity than constructed armor"
-    note: "Masculinity in the film operates defensively rather than naturally."
-
-  - anchorText: "Blue becomes associated with tenderness and self-recognition"
-    note: "Color functions emotionally rather than decoratively throughout the film."
-
-  - anchorText: "Jenkins does not universalize Chiron by stripping away specificity"
-    note: "The film achieves emotional universality through particularity."
+    "a24"
+  ],
+  "publishedAt": "April 19, 2025",
+  "readingTime": 16,
+  "featured": true,
+  "coverImage": "https://nofilmschool.com/media-library/moonlight-blue.png?id=34078965&width=1245&height=700&coordinates=207%2C0%2C141%2C0",
+  "order": 12,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "a cinema of vulnerability and silence",
+      "note": "Jenkins rejects dominant representations of Black masculinity rooted in spectacle and aggression."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The film resists the spectacle of the Other",
+      "note": "Stuart Hall’s representation theory becomes central to understanding Moonlight’s politics."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The missing years become emotional voids",
+      "note": "Narrative ellipses mirror Chiron’s fractured psychological identity."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Black becomes less a true identity than constructed armor",
+      "note": "Masculinity in the film operates defensively rather than naturally."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Blue becomes associated with tenderness and self-recognition",
+      "note": "Color functions emotionally rather than decoratively throughout the film."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Jenkins does not universalize Chiron by stripping away specificity",
+      "note": "The film achieves emotional universality through particularity."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Moonlight*, Independent Cinema, and the Politics of Intimacy

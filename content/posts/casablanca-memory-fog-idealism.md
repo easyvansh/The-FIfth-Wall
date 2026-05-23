@@ -1,42 +1,57 @@
 ---
-slug: "casablanca-memory-fog-idealism"
-title: "Casablanca — Memory, Fog, and the Performance of Idealism"
-subtitle: "Michael Curtiz transforms wartime romance into a meditation on ideology, neutrality, sacrifice, and the slow collapse of cynicism."
-excerpt: "Casablanca survives not simply because of romance, but because every frame participates in the emotional transformation of its characters. Beneath the fog and cigarette smoke lies a film about history forcing people to choose a side."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "casablanca-memory-fog-idealism",
+  "title": "Casablanca — Memory, Fog, and the Performance of Idealism",
+  "subtitle": "Michael Curtiz transforms wartime romance into a meditation on ideology, neutrality, sacrifice, and the slow collapse of cynicism.",
+  "excerpt": "Casablanca survives not simply because of romance, but because every frame participates in the emotional transformation of its characters. Beneath the fog and cigarette smoke lies a film about history forcing people to choose a side.",
+  "category": "cinema",
+  "tags": [
     "casablanca",
     "film theory",
     "cinematography",
     "world war ii",
     "noir",
-    "political cinema",
-  ]
-publishedAt: "January 21, 2022"
-readingTime: 11
-featured: true
-coverImage: "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/9/9d/Casablanca%2C_title.JPG"
-order: 4
-
-marginNotes:
-  - anchorText: "city suspended between glamour and death"
-    note: "Casablanca becomes less a location and more a psychological state of wartime uncertainty."
-
-  - anchorText: "Rick performs indifference"
-    note: "Neutrality in the film is shown not as peace, but emotional withdrawal."
-
-  - anchorText: "Paris flashback sequence"
-    note: "The stylistic rupture visually reveals the emotional fracture between memory and reality."
-
-  - anchorText: "longing photographs beautifully"
-    note: "Ilsa is framed less as realism and more as memory materialized."
-
-  - anchorText: "hesitation becoming commitment"
-    note: "Rick’s transformation mirrors America’s ideological shift during World War II."
-
-  - anchorText: "history forces everyone to choose a side"
-    note: "The film ultimately rejects moral neutrality as sustainable."
+    "political cinema"
+  ],
+  "publishedAt": "January 21, 2022",
+  "readingTime": 11,
+  "featured": true,
+  "coverImage": "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/9/9d/Casablanca%2C_title.JPG",
+  "order": 4,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "city suspended between glamour and death",
+      "note": "Casablanca becomes less a location and more a psychological state of wartime uncertainty."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Rick performs indifference",
+      "note": "Neutrality in the film is shown not as peace, but emotional withdrawal."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Paris flashback sequence",
+      "note": "The stylistic rupture visually reveals the emotional fracture between memory and reality."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "longing photographs beautifully",
+      "note": "Ilsa is framed less as realism and more as memory materialized."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "hesitation becoming commitment",
+      "note": "Rick’s transformation mirrors America’s ideological shift during World War II."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "history forces everyone to choose a side",
+      "note": "The film ultimately rejects moral neutrality as sustainable."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Casablanca* — Memory, Fog, and the Performance of Idealism

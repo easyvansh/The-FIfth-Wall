@@ -1,43 +1,58 @@
 ---
-slug: "moonrise-kingdom-artificial-worlds"
-title: "Moonrise Kingdom — Artificial Worlds, Childhood Performance, and the Architecture of Longing"
-subtitle: "Wes Anderson transforms childhood loneliness into visual architecture through symmetry, objects, memory, and emotional performance."
-excerpt: "Moonrise Kingdom is not simply a whimsical coming-of-age story. It is a film about emotionally displaced children constructing meaning through aesthetics because the adult world surrounding them has already collapsed into performance."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "moonrise-kingdom-artificial-worlds",
+  "title": "Moonrise Kingdom — Artificial Worlds, Childhood Performance, and the Architecture of Longing",
+  "subtitle": "Wes Anderson transforms childhood loneliness into visual architecture through symmetry, objects, memory, and emotional performance.",
+  "excerpt": "Moonrise Kingdom is not simply a whimsical coming-of-age story. It is a film about emotionally displaced children constructing meaning through aesthetics because the adult world surrounding them has already collapsed into performance.",
+  "category": "cinema",
+  "tags": [
     "wes anderson",
     "moonrise kingdom",
     "film theory",
     "mise en scène",
     "cinematography",
     "childhood",
-    "new sincerity",
-  ]
-publishedAt: "January 14, 2022"
-readingTime: 13
-featured: true
-coverImage: "https://www.rogerebert.com/wp-content/uploads/2024/07/The-Wes-Anderson-Collection-Chapter-7-Moonrise-Kingdom.png"
-order: 5
-
-marginNotes:
-  - anchorText: "moving dollhouse"
-    note: "Anderson’s artificiality is not decorative excess — it becomes emotional language."
-
-  - anchorText: "New Sincerity"
-    note: "The film balances postmodern stylization with genuine emotional vulnerability."
-
-  - anchorText: "They curate their own emotional civilization"
-    note: "Objects in Anderson’s cinema function as emotional survival mechanisms."
-
-  - anchorText: "memory rather than reality"
-    note: "The cinematography reconstructs childhood through nostalgic perception rather than realism."
-
-  - anchorText: "identity itself is partially constructed through aesthetic imitation"
-    note: "The children learn adulthood through films, books, music, and performance."
-
-  - anchorText: "psychological architecture"
-    note: "Space, symmetry, and composition externalize emotional states throughout the film."
+    "new sincerity"
+  ],
+  "publishedAt": "January 14, 2022",
+  "readingTime": 13,
+  "featured": true,
+  "coverImage": "https://www.rogerebert.com/wp-content/uploads/2024/07/The-Wes-Anderson-Collection-Chapter-7-Moonrise-Kingdom.png",
+  "order": 5,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "moving dollhouse",
+      "note": "Anderson’s artificiality is not decorative excess — it becomes emotional language."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "New Sincerity",
+      "note": "The film balances postmodern stylization with genuine emotional vulnerability."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "They curate their own emotional civilization",
+      "note": "Objects in Anderson’s cinema function as emotional survival mechanisms."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "memory rather than reality",
+      "note": "The cinematography reconstructs childhood through nostalgic perception rather than realism."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "identity itself is partially constructed through aesthetic imitation",
+      "note": "The children learn adulthood through films, books, music, and performance."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "psychological architecture",
+      "note": "Space, symmetry, and composition externalize emotional states throughout the film."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Moonrise Kingdom* — Artificial Worlds, Childhood Performance, and the Architecture of Longing

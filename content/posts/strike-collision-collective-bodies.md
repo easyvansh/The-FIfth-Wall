@@ -1,42 +1,57 @@
 ---
-slug: "strike-collision-collective-bodies"
-title: "Strike — Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema"
-subtitle: "Sergei Eisenstein transforms montage into political confrontation, turning editing itself into revolutionary force."
-excerpt: "Strike is not merely a film about labor resistance. It is a cinematic machine designed to assault the viewer psychologically through collision, rhythm, symbolism, and intellectual montage."
-category: "cinema"
-tags:
-  [
+{
+  "slug": "strike-collision-collective-bodies",
+  "title": "Strike — Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema",
+  "subtitle": "Sergei Eisenstein transforms montage into political confrontation, turning editing itself into revolutionary force.",
+  "excerpt": "Strike is not merely a film about labor resistance. It is a cinematic machine designed to assault the viewer psychologically through collision, rhythm, symbolism, and intellectual montage.",
+  "category": "cinema",
+  "tags": [
     "eisenstein",
     "strike",
     "soviet cinema",
     "montage theory",
     "film theory",
-    "political cinema",
-  ]
-publishedAt: "March 3, 2022"
-readingTime: 14
-featured: true
-coverImage: "https://assets.mubicdn.net/images/film/3999/image-w1280.jpg"
-order: 7
-
-marginNotes:
-  - anchorText: "He wants the audience to feel the cuts"
-    note: "Eisenstein rejects invisible editing entirely. Montage becomes confrontation."
-
-  - anchorText: "editing itself"
-    note: "Meaning emerges dialectically between images rather than within isolated shots."
-
-  - anchorText: "The workers initiate a strike, but the state responds with a strike of its own"
-    note: "The title evolves from labor action into state violence."
-
-  - anchorText: "The forest in Rashomon is not geography. It is epistemology."
-    note: "Like Kurosawa’s forest, Eisenstein’s factory becomes ideological space rather than simple location."
-
-  - anchorText: "The water hose becomes ideology through montage"
-    note: "Ordinary physical objects gain political meaning through juxtaposition."
-
-  - anchorText: "The viewer is assaulted psychologically"
-    note: "Montage operates emotionally before it operates intellectually."
+    "political cinema"
+  ],
+  "publishedAt": "March 3, 2022",
+  "readingTime": 14,
+  "featured": true,
+  "coverImage": "https://assets.mubicdn.net/images/film/3999/image-w1280.jpg",
+  "order": 7,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "He wants the audience to feel the cuts",
+      "note": "Eisenstein rejects invisible editing entirely. Montage becomes confrontation."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "editing itself",
+      "note": "Meaning emerges dialectically between images rather than within isolated shots."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The workers initiate a strike, but the state responds with a strike of its own",
+      "note": "The title evolves from labor action into state violence."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The forest in Rashomon is not geography. It is epistemology.",
+      "note": "Like Kurosawa’s forest, Eisenstein’s factory becomes ideological space rather than simple location."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The water hose becomes ideology through montage",
+      "note": "Ordinary physical objects gain political meaning through juxtaposition."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "The viewer is assaulted psychologically",
+      "note": "Montage operates emotionally before it operates intellectually."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # *Strike* — Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema

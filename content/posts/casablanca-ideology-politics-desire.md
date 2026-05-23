@@ -1,28 +1,47 @@
 ---
-slug: "casablanca-ideology-politics-desire"
-title: "Casablanca, Ideology, and the Politics of Desire"
-subtitle: "Revisiting nationalism, masculinity, propaganda, and emotional engineering in one of cinema’s most mythologized films."
-excerpt: "Casablanca survives not because it is merely romantic, but because it understood how cinema could reorganize emotion during moments of political uncertainty. Beneath the smoke and sacrifice lies a film negotiating masculinity, ideology, nationalism, and desire."
-category: "cinema"
-tags: ["casablanca", "film theory", "ideology", "masculinity", "war cinema", "psychoanalysis"]
-publishedAt: "Febuary 08, 2022"
-readingTime: 12
-featured: true
-coverImage: "https://www.rogerebert.com/wp-content/uploads/2024/03/Casablanca.jpg"
-order: 1
-
-marginNotes:
-  - anchorText: "emotional infrastructure"
-    note: "Cinema during wartime often functions less as entertainment and more as psychological stabilization."
-
-  - anchorText: "people rarely change because of arguments alone"
-    note: "Ideology works most effectively when emotion arrives before rationalization."
-
-  - anchorText: "Masculinity in Casablanca is performative"
-    note: "The film repeatedly exposes masculine identity as a fragile performance held together by ritual and repression."
-
-  - anchorText: "retroactively creates moral clarity"
-    note: "One of ideology’s strongest functions is simplifying historical ambiguity into emotionally satisfying narratives."
+{
+  "slug": "casablanca-ideology-politics-desire",
+  "title": "Casablanca, Ideology, and the Politics of Desire",
+  "subtitle": "Revisiting nationalism, masculinity, propaganda, and emotional engineering in one of cinema’s most mythologized films.",
+  "excerpt": "Casablanca survives not because it is merely romantic, but because it understood how cinema could reorganize emotion during moments of political uncertainty. Beneath the smoke and sacrifice lies a film negotiating masculinity, ideology, nationalism, and desire.",
+  "category": "cinema",
+  "tags": [
+    "casablanca",
+    "film theory",
+    "ideology",
+    "masculinity",
+    "war cinema",
+    "psychoanalysis"
+  ],
+  "publishedAt": "February 08, 2022",
+  "readingTime": 12,
+  "featured": true,
+  "coverImage": "https://www.rogerebert.com/wp-content/uploads/2024/03/Casablanca.jpg",
+  "order": 1,
+  "marginNotes": [
+    {
+      "type": "annotation",
+      "anchorText": "emotional infrastructure",
+      "note": "Cinema during wartime often functions less as entertainment and more as psychological stabilization."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "people rarely change because of arguments alone",
+      "note": "Ideology works most effectively when emotion arrives before rationalization."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "Masculinity in Casablanca is performative",
+      "note": "The film repeatedly exposes masculine identity as a fragile performance held together by ritual and repression."
+    },
+    {
+      "type": "annotation",
+      "anchorText": "retroactively creates moral clarity",
+      "note": "One of ideology’s strongest functions is simplifying historical ambiguity into emotionally satisfying narratives."
+    }
+  ],
+  "backlinks": []
+}
 ---
 
 # Casablanca, Ideology, and the Politics of Desire
