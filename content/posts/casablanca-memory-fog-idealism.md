@@ -13,7 +13,7 @@ tags:
     "noir",
     "political cinema",
   ]
-publishedAt: "May 23, 2026"
+publishedAt: "January 21, 2022"
 readingTime: 11
 featured: true
 coverImage: "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/9/9d/Casablanca%2C_title.JPG"
