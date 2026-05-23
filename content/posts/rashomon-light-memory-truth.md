@@ -14,7 +14,7 @@ tags:
     "psychoanalysis",
     "japanese cinema",
   ]
-publishedAt: "May 23, 2026"
+publishedAt: "February 25, 2022"
 readingTime: 15
 featured: true
 coverImage: "https://scenebygreen.com/wp-content/uploads/2022/09/screenshotter-untitledfromottvideosonvimeo-5411.jpg"

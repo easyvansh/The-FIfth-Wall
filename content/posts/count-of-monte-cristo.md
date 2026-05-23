@@ -6,7 +6,7 @@
   "excerpt": "Self-reinvention is not a series of habit trackers. It is a slow subterranean confinement that asks you to bury your old self.",
   "category": "philosophy",
   "tags": ["philosophy", "literature", "reinvention"],
-  "publishedAt": "March 14, 2026",
+  "publishedAt": "March 14, 2025",
   "readingTime": 8,
   "featured": false,
   "coverImage": "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
