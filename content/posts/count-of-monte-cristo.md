@@ -5,7 +5,11 @@
   "subtitle": "Revenge, patience, and what Dumas understood about self-transformation.",
   "excerpt": "Self-reinvention is not a series of habit trackers. It is a slow subterranean confinement that asks you to bury your old self.",
   "category": "philosophy",
-  "tags": ["philosophy", "literature", "reinvention"],
+  "tags": [
+    "philosophy",
+    "literature",
+    "reinvention"
+  ],
   "publishedAt": "March 14, 2025",
   "readingTime": 8,
   "featured": false,
@@ -22,9 +26,7 @@
 }
 ---
 
-# The Count of Monte Cristo and Masculine Reinvention
-
-Modern self-help treats transformation like a software update.
+# The Count of Monte Cristo and Masculine Reinvention: Modern self-help treats transformation like a software update.
 
 Wake up earlier. Track habits. Cold showers. Protein intake. Dopamine detoxes. The assumption underneath all of it is strangely optimistic: that the self is fundamentally intact and merely requires optimization.
 

@@ -54,7 +54,7 @@
 }
 ---
 
-# *12 Angry Men* — Visual Language and the Slow Collapse of Certainty
+# *12 Angry Men*: Visual Language and the Slow Collapse of Certainty
 
 :contentReference[oaicite:0]{index=0} is a minimalist masterpiece disguised as a courtroom drama.
 

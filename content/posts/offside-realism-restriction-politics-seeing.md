@@ -1,7 +1,7 @@
 ---
 {
   "slug": "offside-realism-restriction-politics-seeing",
-  "title": "Offside — Realism, Restriction, and the Politics of Seeing",
+  "title": "Offside: Realism, Restriction, and the Politics of Seeing",
   "subtitle": "Jafar Panahi transforms exclusion, waiting, and ordinary bureaucracy into one of cinema’s quietest and most devastating political critiques.",
   "excerpt": "Offside understands that authoritarian systems often operate not through spectacle, but through procedure. Its realism becomes politically powerful precisely because the oppression it depicts feels painfully ordinary.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Offside* — Realism, Restriction, and the Politics of Seeing
+# *Offside*: Realism, Restriction, and the Politics of Seeing
 
 :contentReference[oaicite:0]{index=0} appears deceptively simple on the surface.
 

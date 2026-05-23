@@ -44,9 +44,7 @@
 }
 ---
 
-# Casablanca, Ideology, and the Politics of Desire
-
-*Originally written during my early film studies years. Revisited now with a sharper understanding of ideology, masculinity, propaganda, and the emotional machinery of cinema.*
+# Casablanca, Ideology, and the Politics of Desire: *Originally written during my early film studies years. Revisited now with a sharper understanding of ideology, masculinity, propaganda, and the emotional machinery of cinema.*
 
 There are some films that survive because they are technically brilliant.
 

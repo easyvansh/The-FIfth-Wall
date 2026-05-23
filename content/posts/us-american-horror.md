@@ -1,7 +1,7 @@
 ---
 {
   "slug": "us-sound-doubles-american-horror",
-  "title": "Us — Sound, Doubles, and the Horror Beneath the American Dream",
+  "title": "Us: Sound, Doubles, and the Horror Beneath the American Dream",
   "subtitle": "Jordan Peele transforms mirrors, sound design, and visual doubles into a psychological and political nightmare about identity, repression, and America itself.",
   "excerpt": "Us is not simply a home-invasion horror film. It is a cinematic meditation on repression, duality, and the terrifying realization that the monster may already be embedded within the structure of ordinary American life.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Us* — Sound, Doubles, and the Horror Beneath the American Dream
+# *Us*: Sound, Doubles, and the Horror Beneath the American Dream
 
 :contentReference[oaicite:0]{index=0} is a horror film obsessed with reflection.
 

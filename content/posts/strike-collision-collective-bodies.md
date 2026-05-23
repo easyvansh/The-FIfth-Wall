@@ -1,7 +1,7 @@
 ---
 {
   "slug": "strike-collision-collective-bodies",
-  "title": "Strike — Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema",
+  "title": "Strike: Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema",
   "subtitle": "Sergei Eisenstein transforms montage into political confrontation, turning editing itself into revolutionary force.",
   "excerpt": "Strike is not merely a film about labor resistance. It is a cinematic machine designed to assault the viewer psychologically through collision, rhythm, symbolism, and intellectual montage.",
   "category": "cinema",
@@ -54,7 +54,7 @@
 }
 ---
 
-# *Strike* — Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema
+# *Strike*: Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema
 
 :contentReference[oaicite:0]{index=0} is not a subtle film.
 

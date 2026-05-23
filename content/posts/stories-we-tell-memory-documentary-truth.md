@@ -1,7 +1,7 @@
 ---
 {
   "slug": "stories-we-tell-memory-documentary-truth",
-  "title": "Stories We Tell — Memory, Performance, and the Instability of Documentary Truth",
+  "title": "Stories We Tell: Memory, Performance, and the Instability of Documentary Truth",
   "subtitle": "Sarah Polley transforms documentary cinema into an investigation of memory, narration, reconstruction, and emotional subjectivity.",
   "excerpt": "Stories We Tell refuses the fantasy that documentaries simply capture reality objectively. Instead, Sarah Polley reveals how memory itself functions through performance, reconstruction, omission, and emotional narration.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Stories We Tell* — Memory, Performance, and the Instability of Documentary Truth
+# *Stories We Tell*: Memory, Performance, and the Instability of Documentary Truth
 
 :contentReference[oaicite:0]{index=0} is a documentary that constantly destabilizes the audience’s understanding of:
 

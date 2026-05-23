@@ -1,7 +1,7 @@
 ---
 {
   "slug": "moonrise-kingdom-artificial-worlds",
-  "title": "Moonrise Kingdom — Artificial Worlds, Childhood Performance, and the Architecture of Longing",
+  "title": "Moonrise Kingdom: Artificial Worlds, Childhood Performance, and the Architecture of Longing",
   "subtitle": "Wes Anderson transforms childhood loneliness into visual architecture through symmetry, objects, memory, and emotional performance.",
   "excerpt": "Moonrise Kingdom is not simply a whimsical coming-of-age story. It is a film about emotionally displaced children constructing meaning through aesthetics because the adult world surrounding them has already collapsed into performance.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Moonrise Kingdom* — Artificial Worlds, Childhood Performance, and the Architecture of Longing
+# *Moonrise Kingdom*: Artificial Worlds, Childhood Performance, and the Architecture of Longing
 
 :contentReference[oaicite:0]{index=0} is a film that initially appears whimsical almost to the point of absurdity.
 

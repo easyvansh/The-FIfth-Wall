@@ -1,7 +1,7 @@
 ---
 {
   "slug": "hot-fuzz-speed-satire-hypercompetence",
-  "title": "Hot Fuzz — Speed, Satire, and the Editing of Hypercompetence",
+  "title": "Hot Fuzz: Speed, Satire, and the Editing of Hypercompetence",
   "subtitle": "Edgar Wright transforms action-movie editing into comedy, turning paperwork, train rides, and village policing into cinematic warfare.",
   "excerpt": "Hot Fuzz works because Edgar Wright genuinely understands the genre he is parodying. The film weaponizes montage, sound, and visual compression to expose how action cinema mythologizes masculine competence.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Hot Fuzz* — Speed, Satire, and the Editing of Hypercompetence
+# *Hot Fuzz*: Speed, Satire, and the Editing of Hypercompetence
 
 :contentReference[oaicite:0]{index=0} is one of the rare parody films that fully understands the genre it is mocking.
 

@@ -1,7 +1,7 @@
 ---
 {
   "slug": "the-skin-i-live-in-story-plot-identity",
-  "title": "The Skin I Live In — Story, Plot, and the Horror of Reconstructed Identity",
+  "title": "The Skin I Live In: Story, Plot, and the Horror of Reconstructed Identity",
   "subtitle": "Pedro Almodóvar transforms bodily transformation into psychological horror through fragmented narrative structure and ethical instability.",
   "excerpt": "The Skin I Live In is not horrifying simply because of bodily violence. Its true horror emerges through narrative revelation itself, where delayed information forces the audience to reorganize identity, morality, and spectatorship retroactively.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *The Skin I Live In* — Story, Plot, and the Horror of Reconstructed Identity
+# *The Skin I Live In*: Story, Plot, and the Horror of Reconstructed Identity
 
 :contentReference[oaicite:0]{index=0} is a film where horror emerges not simply through violence, but through revelation.
 

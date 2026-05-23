@@ -5,7 +5,14 @@
   "subtitle": "Attention, algorithms, and the quiet erosion of inner life.",
   "excerpt": "We no longer simply consume media. Media studies us, predicts us, and slowly reshapes the architecture of our attention.",
   "category": "philosophy",
-  "tags": ["technology", "psychology", "cinema", "attention", "social media", "culture"],
+  "tags": [
+    "technology",
+    "psychology",
+    "cinema",
+    "attention",
+    "social media",
+    "culture"
+  ],
   "publishedAt": "May 22, 2026",
   "readingTime": 14,
   "featured": true,
@@ -41,9 +48,7 @@
 }
 ---
 
-# The Death of the Consumer
-
-I don’t think people realize how much the texture of everyday life has changed in the last few years.
+# The Death of the Consumer: I don’t think people realize how much the texture of everyday life has changed in the last few years.
 
 There was a time when boredom actually existed. You waited for films to come out. You replayed songs because they meant something to you. You sat with an album, a book, a scene, a conversation. Things had weight because they took time to arrive.
 

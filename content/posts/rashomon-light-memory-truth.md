@@ -1,7 +1,7 @@
 ---
 {
   "slug": "rashomon-light-memory-truth",
-  "title": "Rashomon — Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth",
+  "title": "Rashomon: Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth",
   "subtitle": "Akira Kurosawa transforms fractured testimony into cinematic philosophy through light, movement, rhythm, and spatial instability.",
   "excerpt": "Rashomon is not simply a murder mystery. It is a film about the terrifying human tendency to aestheticize truth in order to protect the ego. Every testimony becomes self-mythology disguised as memory.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Rashomon* — Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth
+# *Rashomon*: Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth
 
 :contentReference[oaicite:0]{index=0} is not merely a murder mystery or a courtroom drama disguised as a samurai film.
 

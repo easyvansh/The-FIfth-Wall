@@ -54,9 +54,7 @@
 }
 ---
 
-# *A Separation* — Original Essay
-
-## Separation Beyond Divorce: Moral Fragmentation and Social Anxiety in Asghar Farhadi’s *A Separation*
+# *A Separation*: Original Essay: ## Separation Beyond Divorce: Moral Fragmentation and Social Anxiety in Asghar Farhadi’s *A Separation*
 
 There are films that feel written.
 

@@ -1,7 +1,7 @@
 ---
 {
   "slug": "drive-sound-silence-violence",
-  "title": "Drive — Sound, Silence, and the Violence Beneath the Fantasy",
+  "title": "Drive: Sound, Silence, and the Violence Beneath the Fantasy",
   "subtitle": "Nicolas Winding Refn transforms synth music, silence, and sonic transitions into psychological architecture.",
   "excerpt": "Drive understands that tension is not created only through what we see, but through what we hear, almost hear, and suddenly stop hearing. Beneath the synth-wave fantasy lies a film about violence collapsing romantic illusion.",
   "category": "cinema",
@@ -55,7 +55,7 @@
 }
 ---
 
-# *Drive* — Sound, Silence, and the Violence Beneath the Fantasy
+# *Drive*: Sound, Silence, and the Violence Beneath the Fantasy
 
 :contentReference[oaicite:0]{index=0} understands something many modern thrillers forget:
 

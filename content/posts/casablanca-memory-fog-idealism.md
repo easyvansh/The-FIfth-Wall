@@ -1,7 +1,7 @@
 ---
 {
   "slug": "casablanca-memory-fog-idealism",
-  "title": "Casablanca — Memory, Fog, and the Performance of Idealism",
+  "title": "Casablanca: Memory, Fog, and the Performance of Idealism",
   "subtitle": "Michael Curtiz transforms wartime romance into a meditation on ideology, neutrality, sacrifice, and the slow collapse of cynicism.",
   "excerpt": "Casablanca survives not simply because of romance, but because every frame participates in the emotional transformation of its characters. Beneath the fog and cigarette smoke lies a film about history forcing people to choose a side.",
   "category": "cinema",
@@ -54,7 +54,7 @@
 }
 ---
 
-# *Casablanca* — Memory, Fog, and the Performance of Idealism
+# *Casablanca*: Memory, Fog, and the Performance of Idealism
 
 :contentReference[oaicite:0]{index=0} is one of those films that feels deceptively simple until you begin paying attention to how it is constructed.
 
