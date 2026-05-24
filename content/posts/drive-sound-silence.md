@@ -57,14 +57,14 @@
 
 # *Drive*: Sound, Silence, and the Violence Beneath the Fantasy
 
-:contentReference[oaicite:0]{index=0} understands something many modern thrillers forget:
+*Drive* understands something many modern thrillers forget:
 
 tension is not created only through what we see,
 but through what we hear,
 what we almost hear,
 and what suddenly disappears.
 
-Directed by :contentReference[oaicite:1]{index=1}, the film constructs a cinematic universe where sound constantly shifts between reality and emotional fantasy.
+Directed by Nicolas Winding Refn, the film constructs a cinematic universe where sound constantly shifts between reality and emotional fantasy.
 
 Engines roar like animals.
 Synth music feels like memory.
@@ -83,7 +83,7 @@ Instead, Refn frequently blurs the line between internal emotion and external re
 
 This becomes especially important because the Driver himself functions almost like an empty cinematic vessel.
 
-:contentReference[oaicite:2]{index=2} barely speaks throughout the film. The Driver rarely verbalizes emotion and often appears emotionally disconnected from ordinary human interaction.
+The Driver barely speaks throughout the film. The Driver rarely verbalizes emotion and often appears emotionally disconnected from ordinary human interaction.
 
 Because of this, sound becomes one of the primary ways the audience gains access to his psychology.
 

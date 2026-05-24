@@ -57,7 +57,7 @@
 
 # *Stories We Tell*: Memory, Performance, and the Instability of Documentary Truth
 
-:contentReference[oaicite:0]{index=0} is a documentary that constantly destabilizes the audience’s understanding of:
+*Stories We Tell* is a documentary that constantly destabilizes the audience's understanding of:
 
 - truth,
 - memory,
@@ -113,7 +113,7 @@ We see:
 
 Unlike conventional documentaries attempting to hide artificiality in order to preserve realism, Polley foregrounds mediation constantly.
 
-This aligns directly with the **reflexive documentary mode** described by :contentReference[oaicite:1]{index=1}.
+This aligns directly with the **reflexive documentary mode** described by Bill Nichols.
 
 Nichols argues that reflexive documentaries draw attention to filmmaking itself, reminding audiences that documentaries do not simply capture reality objectively.
 
@@ -184,7 +184,7 @@ And this instability connects directly to the documentary’s performative dimen
 
 Unlike purely observational documentaries attempting detached neutrality, *Stories We Tell* embraces emotional subjectivity openly.
 
-:contentReference[oaicite:2]{index=2} functions simultaneously as:
+Sarah Polley functions simultaneously as:
 
 - filmmaker,
 - narrator,
@@ -407,5 +407,3 @@ Nichols, Bill. *Introduction to Documentary*. Indiana University Press, 2010.
 
 “The Documentary Modes of Bill Nichols.” *Documentary Film Theory Journal*,
 https://documentarytheoryjournal.org
-
-:contentReference[oaicite:3]{index=3}

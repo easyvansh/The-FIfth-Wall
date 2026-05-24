@@ -60,11 +60,11 @@ There are films that feel written.
 
 And then there are films that feel observed.
 
-:contentReference[oaicite:0]{index=0} belongs to the second category.
+*A Separation* belongs to the second category.
 
 The film does not move like conventional drama. It moves like life itself — fragmented, morally unstable, emotionally contradictory, and painfully unresolved. What initially appears to be a simple divorce narrative gradually unfolds into something far more devastating: a study of separation as a permanent condition embedded within modern existence.
 
-*A Separation* is an emotional masterpiece by :contentReference[oaicite:1]{index=1}. The title itself is deliberately provocative about the central theme of the film, which deals with complex and dynamic relationships between its characters. On the surface, the story concerns a couple seeking a divorce due to irreconcilable differences, but as the plot progresses, the emotional and ideological fractures deepen.
+*A Separation* is an emotional masterpiece by Asghar Farhadi. The title itself is deliberately provocative about the central theme of the film, which deals with complex and dynamic relationships between its characters. On the surface, the story concerns a couple seeking a divorce due to irreconcilable differences, but as the plot progresses, the emotional and ideological fractures deepen.
 
 Underneath this obvious narrative lies the subtle separation between social classes, the separation of interests, the separation of beliefs ranging from conservative religious fundamentalism to comparatively liberal worldviews, and ultimately the separation between a husband and wife whose conflict transforms from something ordinary into something emotionally catastrophic.
 

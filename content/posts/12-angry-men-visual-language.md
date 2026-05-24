@@ -56,7 +56,7 @@
 
 # *12 Angry Men*: Visual Language and the Slow Collapse of Certainty
 
-:contentReference[oaicite:0]{index=0} is a minimalist masterpiece disguised as a courtroom drama.
+*12 Angry Men* is a minimalist masterpiece disguised as a courtroom drama.
 
 On paper, almost nothing happens.
 
@@ -64,7 +64,7 @@ Twelve men sit inside a room and argue. No action sequences. No elaborate score 
 
 Yet somehow the film becomes more suffocating than most thrillers.
 
-What makes the film remarkable is how :contentReference[oaicite:1]{index=1} transforms a single jury room into a psychological battlefield. The movie quietly dismantles the comforting fantasy that democratic systems are inherently rational. Instead, it exposes how deeply human judgment becomes contaminated by personal bias, insecurity, resentment, class prejudice, emotional projection, and wounded masculinity.
+What makes the film remarkable is how Sidney Lumet transforms a single jury room into a psychological battlefield. The movie quietly dismantles the comforting fantasy that democratic systems are inherently rational. Instead, it exposes how deeply human judgment becomes contaminated by personal bias, insecurity, resentment, class prejudice, emotional projection, and wounded masculinity.
 
 The courtroom may operate on facts.
 
@@ -123,7 +123,7 @@ Lumet only needs twelve irritated men and a broken fan.
 
 ## Certainty as Violence
 
-After the first vote reveals an 11-to-1 decision, Juror #8, played by :contentReference[oaicite:2]{index=2}, calmly states that he is not certain of the boy’s guilt and wants further discussion before sentencing someone to death.
+After the first vote reveals an 11-to-1 decision, Juror #8, played by Henry Fonda, calmly states that he is not certain of the boy's guilt and wants further discussion before sentencing someone to death.
 
 Importantly, he never claims the boy is innocent.
 

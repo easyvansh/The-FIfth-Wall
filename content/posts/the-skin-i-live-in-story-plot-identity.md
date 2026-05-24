@@ -57,9 +57,9 @@
 
 # *The Skin I Live In*: Story, Plot, and the Horror of Reconstructed Identity
 
-:contentReference[oaicite:0]{index=0} is a film where horror emerges not simply through violence, but through revelation.
+*The Skin I Live In* is a film where horror emerges not simply through violence, but through revelation.
 
-Directed by :contentReference[oaicite:1]{index=1}, the film gradually transforms from mystery into psychological nightmare through the relationship between story and plot itself.
+Directed by Pedro Almodóvar, the film gradually transforms from mystery into psychological nightmare through the relationship between story and plot itself.
 
 The distinction between those two concepts becomes crucial.
 
@@ -83,7 +83,7 @@ However, the horror of the film does not emerge merely from scientific experimen
 
 The body becomes a site of horror, mutation, and control.
 
-This aligns the film strongly with traditions of body horror cinema where, as :contentReference[oaicite:2]{index=2} argues, horror emerges through “the spectacle of the body caught in processes of transformation.”
+This aligns the film strongly with traditions of body horror cinema where, as Laura Mulvey argues, horror emerges through "the spectacle of the body caught in processes of transformation."
 
 Robert’s experiments become horrifying not simply because they are violent,
 but because they violate bodily autonomy itself.
@@ -112,7 +112,7 @@ As she approaches a mirror and sees her altered appearance reflected back at her
 
 The mirror scene becomes extraordinarily important because the film repeatedly associates identity with visual recognition and bodily coherence.
 
-In psychoanalytic terms, this evokes :contentReference[oaicite:3]{index=3}’s theory of the **mirror stage**, where selfhood becomes dependent upon visual wholeness and recognition.
+In psychoanalytic terms, this evokes Jacques Lacan's theory of the **mirror stage**, where selfhood becomes dependent upon visual wholeness and recognition.
 
 Gal’s inability to recognize herself transforms the mirror into an instrument of horror rather than self-confirmation.
 
@@ -155,7 +155,7 @@ The audience initially believes Vera is simply a mysterious captive woman.
 
 The flashback sequence violently reframes the entire narrative.
 
-This is where :contentReference[oaicite:4]{index=4}’s theories of narrative structure become especially useful.
+This is where Tzvetan Todorov's theories of narrative structure become especially useful.
 
 Todorov argues that narratives function through movement from equilibrium toward disequilibrium before arriving at new understanding.
 
@@ -171,7 +171,7 @@ The viewer experiences revelation almost as violation.
 
 Throughout the first half of the film, the audience aligns primarily with Robert because he controls narrative perspective and screen authority.
 
-This reflects :contentReference[oaicite:5]{index=5}’s distinction between **alignment** and **allegiance**.
+This reflects David Bordwell's distinction between **alignment** and **allegiance**.
 
 The film initially aligns viewers with Robert structurally through perspective and narrative access.
 
@@ -217,7 +217,7 @@ But identity itself has been irreversibly violated.
 
 The film offers no comforting return to normality.
 
-This aligns closely with :contentReference[oaicite:6]{index=6}’s famous argument that horror concerns “the return of the repressed.”
+This aligns closely with Sigmund Freud's famous argument that horror concerns "the return of the repressed."
 
 The film represses anxieties surrounding:
 
@@ -229,7 +229,7 @@ The film represses anxieties surrounding:
 
 only to force them back onto the screen grotesquely.
 
-Similarly, :contentReference[oaicite:7]{index=7}’s theory of the **monstrous-feminine** becomes deeply relevant.
+Similarly, Barbara Creed's theory of the **monstrous-feminine** becomes deeply relevant.
 
 Vera’s body is constructed through patriarchal violence and scientific control.
 

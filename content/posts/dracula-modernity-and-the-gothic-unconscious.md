@@ -41,7 +41,7 @@ There are monsters that disappear with history, and there are monsters that evol
 
 Dracula belongs to the second category.
 
-More than a century after Bram Stoker published :contentReference[oaicite:0]{index=0} in 1897, the vampire continues to survive through cinema, literature, games, fashion, internet aesthetics, and popular culture. The figure mutates endlessly. Sometimes Dracula appears as a grotesque corpse spreading plague. Sometimes he is a seductive aristocrat. Sometimes a tragic romantic antihero. Sometimes an embodiment of disease, migration, addiction, loneliness, capitalism, sexuality, or immortality itself.
+More than a century after Bram Stoker published *Dracula* in 1897, the vampire continues to survive through cinema, literature, games, fashion, internet aesthetics, and popular culture. The figure mutates endlessly. Sometimes Dracula appears as a grotesque corpse spreading plague. Sometimes he is a seductive aristocrat. Sometimes a tragic romantic antihero. Sometimes an embodiment of disease, migration, addiction, loneliness, capitalism, sexuality, or immortality itself.
 
 That adaptability is precisely why Dracula matters.
 
@@ -54,7 +54,7 @@ It diagnoses civilizations.
 
 The vampire did not begin with elegance.
 
-Long before capes, castles, and aristocratic seduction, vampire folklore emerged from premodern anxieties surrounding death, disease, and decomposition. Across Slavic and Eastern European traditions, vampires were not charming immortals but bloated, grotesque revenants associated with plague, improper burial rituals, and bodily corruption. :contentReference[oaicite:1]{index=1}
+Long before capes, castles, and aristocratic seduction, vampire folklore emerged from premodern anxieties surrounding death, disease, and decomposition. Across Slavic and Eastern European traditions, vampires were not charming immortals but bloated, grotesque revenants associated with plague, improper burial rituals, and bodily corruption.
 
 One of the most influential historical incidents was the case of Arnold Paole in 1726, a Serbian man believed to have returned from the dead as a vampire after his burial. Reports surrounding the case spread throughout Europe and helped solidify the vampire within Western imagination. These early vampires resembled what modern audiences might associate more closely with zombies or ghouls than with cinematic Dracula. They were decomposing bodies violating the natural boundary between life and death.
 
@@ -74,12 +74,12 @@ The modern vampire truly begins not in folklore but in literature.
 
 In the nineteenth century, writers transformed the vampire from a monstrous peasant corpse into a seductive aristocratic figure. This shift was crucial because it relocated horror from the graveyard into the social order itself.
 
-The first major example appears in :contentReference[oaicite:2]{index=2} by John Polidori. Lord Ruthven is elegant, charismatic, sexually transgressive, and socially mobile. The monster can now pass among polite society. Horror no longer lives outside civilization. It wears civilization’s clothes.
+The first major example appears in John Polidori's *The Vampyre*. Lord Ruthven is elegant, charismatic, sexually transgressive, and socially mobile. The monster can now pass among polite society. Horror no longer lives outside civilization. It wears civilization’s clothes.
 
 This transition reflects a broader Gothic anxiety:
 the fear that corruption may already exist inside the structures of refinement, class, and power.
 
-Later works expanded this idea further. :contentReference[oaicite:3]{index=3} by Sheridan Le Fanu introduced themes of feminine desire, erotic repression, and lesbian sexuality into vampire mythology. The vampire increasingly became associated with forbidden intimacy and destabilized gender norms.
+Later works expanded this idea further. Sheridan Le Fanu's *Carmilla* introduced themes of feminine desire, erotic repression, and lesbian sexuality into vampire mythology. The vampire increasingly became associated with forbidden intimacy and destabilized gender norms.
 
 By the time Stoker writes Dracula in 1897, the vampire has become an incredibly dense symbolic figure:
 - aristocrat,
@@ -216,15 +216,15 @@ The Gothic never disappears because modernity itself continuously generates unca
 
 Cinema transformed Dracula from literature into myth.
 
-Perhaps the most influential adaptation remains :contentReference[oaicite:4]{index=4} starring :contentReference[oaicite:5]{index=5}. Lugosi’s performance fundamentally shaped the cinematic vampire archetype: hypnotic voice, aristocratic elegance, controlled sensuality.
+Perhaps the most influential adaptation remains the 1931 *Dracula* film starring Bela Lugosi. Lugosi's performance fundamentally shaped the cinematic vampire archetype: hypnotic voice, aristocratic elegance, controlled sensuality.
 
-Importantly, this Dracula appears during the Great Depression. Horror films of the 1930s frequently reflected social instability and economic despair. The monster became a symbolic expression of collective anxiety. :contentReference[oaicite:6]{index=6}
+Importantly, this Dracula appears during the Great Depression. Horror films of the 1930s frequently reflected social instability and economic despair. The monster became a symbolic expression of collective anxiety.
 
 At the same time, Dracula became eroticized.
 
 Lugosi’s foreignness itself carried seductive danger. His accent, gaze, and mannerisms coded him as both desirable and threatening. The immigrant body became simultaneously fetishized and feared.
 
-By contrast, :contentReference[oaicite:7]{index=7} presents the vampire as pure plague imagery. Count Orlok resembles disease incarnate:
+By contrast, F.W. Murnau's *Nosferatu* presents the vampire as pure plague imagery. Count Orlok resembles disease incarnate:
 rat-like,
 corpse-like,
 decaying.
@@ -233,7 +233,7 @@ German Expressionism transforms architecture into psychological nightmare. Shado
 
 Later adaptations radically reinvented Dracula again.
 
-:contentReference[oaicite:8]{index=8} by :contentReference[oaicite:9]{index=9} reframed Dracula as tragic romantic antihero. The vampire shifts from imperial invader into melancholic eternal lover.
+Francis Ford Coppola's *Dracula* reframed the Count as tragic romantic antihero. The vampire shifts from imperial invader into melancholic eternal lover.
 
 This transformation reflects changing cultural anxieties.
 

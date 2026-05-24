@@ -50,7 +50,7 @@ There are some films that survive because they are technically brilliant.
 
 And then there are films that survive because they understood the emotional condition of an era better than the people living through it.
 
-:contentReference[oaicite:0]{index=0} belongs to the second category.
+*Casablanca* belongs to the second category.
 
 When I first encountered the critical essays surrounding *Casablanca*, I approached the film mostly as an academic object. I summarized arguments. I explained theories. I responded to authors. But revisiting these essays today, what strikes me is not merely the film’s political importance or romantic legacy.
 
@@ -64,7 +64,7 @@ That is why it endured.
 
 ## Cinema as Emotional Infrastructure
 
-Jack Nachbar’s essay, *“Doing the Thinking For All of Us: Casablanca and the Home Front,”* argues that the film functioned almost like emotional propaganda for wartime America. :contentReference[oaicite:1]{index=1}
+Jack Nachbar's essay, *"Doing the Thinking For All of Us: Casablanca and the Home Front,"* argues that the film functioned almost like emotional propaganda for wartime America.
 
 At first glance, this sounds cynical.
 
@@ -78,7 +78,7 @@ And *Casablanca* understood this perfectly.
 
 Rick Blaine begins the film as detached, cynical, emotionally guarded. He refuses causes. He refuses sacrifice. He refuses belief itself. Yet by the end, he transforms into someone willing to surrender personal happiness for something larger than himself.
 
-That transformation mirrors the ideological transformation America itself needed. Nachbar explicitly frames Rick’s evolution as paralleling America’s movement from cynical isolationism toward sentimental self-sacrifice during World War II. :contentReference[oaicite:2]{index=2}
+That transformation mirrors the ideological transformation America itself needed. Nachbar explicitly frames Rick's evolution as paralleling America's movement from cynical isolationism toward sentimental self-sacrifice during World War II.
 
 The brilliance of the film lies in how naturally this shift feels.
 
@@ -88,7 +88,7 @@ They are emotionally escorted toward it.
 
 The film understands something deeply human: people rarely change because of arguments alone. They change because stories reorganize their feelings first.
 
-Nachbar further notes that the film reflected recognizable wartime realities — smoking culture, rationing, nightclubs, black markets, displacement, nostalgia, and emotional uncertainty. :contentReference[oaicite:3]{index=3} Casablanca becomes less a geographical setting and more a psychological landscape populated by people suspended between escape and collapse.
+Nachbar further notes that the film reflected recognizable wartime realities — smoking culture, rationing, nightclubs, black markets, displacement, nostalgia, and emotional uncertainty. Casablanca becomes less a geographical setting and more a psychological landscape populated by people suspended between escape and collapse.
 
 Everyone in the film is waiting.
 
@@ -101,7 +101,7 @@ That atmosphere matters.
 
 Because beneath the romance, the film is haunted by exhaustion.
 
-Even the music functions psychologically. Nachbar observes how sentimental melodies and nostalgic music offered relief to wartime audiences separated from loved ones overseas. :contentReference[oaicite:4]{index=4} The songs are not merely decorative.
+Even the music functions psychologically. Nachbar observes how sentimental melodies and nostalgic music offered relief to wartime audiences separated from loved ones overseas. The songs are not merely decorative.
 
 They soothe.
 
@@ -109,7 +109,7 @@ Cinema here becomes collective emotional regulation.
 
 ## Masculinity and the Hidden Structure of Desire
 
-Peter Kunze’s *“Beautiful Friendship: Masculinity and Nationalism in Casablanca”* initially felt absurd to me years ago. :contentReference[oaicite:5]{index=5}
+Peter Kunze's *"Beautiful Friendship: Masculinity and Nationalism in Casablanca"* initially felt absurd to me years ago.
 
 The essay proposes that beneath the heterosexual romance lies a network of male homosocial desire, emotional dependence, and suppressed masculine intimacy.
 
@@ -119,11 +119,11 @@ I do not anymore.
 
 Not because every conclusion is necessarily correct, but because the essay identifies something cinema often hides in plain sight: masculinity frequently disguises emotional longing through power, rivalry, nationalism, camaraderie, or ideological performance.
 
-Drawing upon Eve Sedgwick’s theory of male homosocial desire, Kunze reframes the emotional structure of the film away from simple heterosexual romance and toward masculine relational dynamics. :contentReference[oaicite:6]{index=6}
+Drawing upon Eve Sedgwick's theory of male homosocial desire, Kunze reframes the emotional structure of the film away from simple heterosexual romance and toward masculine relational dynamics.
 
 Rick and Renault’s relationship becomes particularly fascinating under this lens.
 
-Their interactions constantly oscillate between admiration, distrust, flirtation, manipulation, and emotional recognition. Renault repeatedly feminizes Rick linguistically while simultaneously expressing fascination with him. :contentReference[oaicite:7]{index=7}
+Their interactions constantly oscillate between admiration, distrust, flirtation, manipulation, and emotional recognition. Renault repeatedly feminizes Rick linguistically while simultaneously expressing fascination with him.
 
 The intimacy feels strange precisely because the film never fully acknowledges it.
 
@@ -143,7 +143,7 @@ But performance eventually cracks.
 
 What emerges underneath is vulnerability.
 
-Even Sam’s role becomes emotionally revealing within this framework. Kunze points out that Sam exists simultaneously as Rick’s closest emotional companion and one of the least fully acknowledged relationships in the film. :contentReference[oaicite:8]{index=8}
+Even Sam's role becomes emotionally revealing within this framework. Kunze points out that Sam exists simultaneously as Rick's closest emotional companion and one of the least fully acknowledged relationships in the film.
 
 The film repeatedly suggests that masculine identity depends upon repression.
 
@@ -155,9 +155,9 @@ That realization changes the film.
 
 ## Political Mythmaking and Moral Clarity
 
-Richard Raskin’s essay, *“Casablanca and United States Foreign Policy,”* may be the most intellectually important of the three because it dismantles the comforting assumption that the film accurately reflected official American policy at the time. :contentReference[oaicite:9]{index=9}
+Richard Raskin's essay, *"Casablanca and United States Foreign Policy,"* may be the most intellectually important of the three because it dismantles the comforting assumption that the film accurately reflected official American policy at the time.
 
-In reality, American policy toward Vichy France remained politically cautious and diplomatically compromised far longer than the film suggests. Raskin demonstrates that the United States maintained relations with Vichy while simultaneously refusing to fully recognize the Free French movement. :contentReference[oaicite:10]{index=10}
+In reality, American policy toward Vichy France remained politically cautious and diplomatically compromised far longer than the film suggests. Raskin demonstrates that the United States maintained relations with Vichy while simultaneously refusing to fully recognize the Free French movement.
 
 The film therefore presents a morally simplified world vastly cleaner than actual geopolitics.
 
@@ -165,7 +165,7 @@ This is what ideology does best.
 
 It retroactively creates moral clarity.
 
-Raskin even proposes that Rick symbolically represents President Roosevelt himself — a man slowly abandoning isolationist hesitation in favor of moral intervention. :contentReference[oaicite:11]{index=11}
+Raskin even proposes that Rick symbolically represents President Roosevelt himself — a man slowly abandoning isolationist hesitation in favor of moral intervention.
 
 The symbolism becomes difficult to ignore.
 
@@ -178,8 +178,6 @@ Yet perhaps the most unsettling implication of Raskin’s argument is this:
 *Casablanca* may not have merely reflected public opinion.
 
 It may have actively attempted to shape it.
-
-:contentReference[oaicite:12]{index=12}
 
 That idea feels deeply modern.
 

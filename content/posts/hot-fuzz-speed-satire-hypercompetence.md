@@ -57,11 +57,11 @@
 
 # *Hot Fuzz*: Speed, Satire, and the Editing of Hypercompetence
 
-:contentReference[oaicite:0]{index=0} is one of the rare parody films that fully understands the genre it is mocking.
+*Hot Fuzz* is one of the rare parody films that fully understands the genre it is mocking.
 
 Most spoofs simply imitate clichés loudly and point at them.
 
-:contentReference[oaicite:1]{index=1} does something far more interesting.
+Edgar Wright does something far more interesting.
 
 He genuinely loves the visual language of action cinema — especially the hyper-serious editing rhythms of Hollywood cop thrillers — and because of that affection, the comedy in *Hot Fuzz* never feels lazy or detached.
 
@@ -106,7 +106,7 @@ The opening montage introducing Officer Nicholas Angel functions almost like a c
 
 The sequence begins deceptively slowly.
 
-:contentReference[oaicite:2]{index=2} walks directly toward the camera while the sound design isolates only his footsteps. The framing initially resembles the introduction of a dangerous antihero in a serious crime thriller.
+Simon Pegg walks directly toward the camera while the sound design isolates only his footsteps. The framing initially resembles the introduction of a dangerous antihero in a serious crime thriller.
 
 Wright allows the shot enough compositional weight that the audience instinctively prepares for importance.
 

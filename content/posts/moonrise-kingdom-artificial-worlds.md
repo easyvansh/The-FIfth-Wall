@@ -57,13 +57,13 @@
 
 # *Moonrise Kingdom*: Artificial Worlds, Childhood Performance, and the Architecture of Longing
 
-:contentReference[oaicite:0]{index=0} is a film that initially appears whimsical almost to the point of absurdity.
+*Moonrise Kingdom* is a film that initially appears whimsical almost to the point of absurdity.
 
 Two twelve-year-olds run away together, smoke pipes, drink alcohol, dance on a beach to French music, stab another child with scissors, and eventually attempt to construct their own miniature domestic world away from adults.
 
 In most directors’ hands, this premise could easily collapse into sentimentality or discomfort.
 
-Yet under :contentReference[oaicite:1]{index=1}, the film becomes something stranger and far more emotionally intelligent:
+Yet under Wes Anderson, the film becomes something stranger and far more emotionally intelligent:
 
 a deeply self-aware meditation on loneliness, emotional displacement, nostalgia, and the artificial performance of adulthood.
 
@@ -200,9 +200,9 @@ Despite his attempts at masculine competence, he retains visible awkwardness and
 
 Together, the two characters occupy an unstable psychological territory between innocence and self-conscious performance.
 
-This dynamic connects strongly to literary influences visible throughout the film. The emotionally precocious children resemble figures from :contentReference[oaicite:2]{index=2} or even Charles Schulz’s *Peanuts*, where children speak with strange emotional maturity while remaining fundamentally vulnerable.
+This dynamic connects strongly to literary influences visible throughout the film. The emotionally precocious children resemble figures from J.D. Salinger's *The Catcher in the Rye* or even Charles Schulz's *Peanuts*, where children speak with strange emotional maturity while remaining fundamentally vulnerable.
 
-Anderson filters these influences through a cinematic grammar heavily inspired by the French New Wave, particularly the emotional alienation and youthful rebellion visible in :contentReference[oaicite:3]{index=3}.
+Anderson filters these influences through a cinematic grammar heavily inspired by the French New Wave, particularly the emotional alienation and youthful rebellion visible in François Truffaut's work.
 
 ## Romance as Performance
 

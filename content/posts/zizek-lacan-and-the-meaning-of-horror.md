@@ -50,7 +50,7 @@ The true terror of horror cinema emerges when reality itself begins to crack. Wh
 
 This is why a ghost in a hallway can feel more terrifying than explicit violence. It is not merely the image itself. It is the implication that the world may no longer obey the rules we believed governed it.
 
-This is where thinkers like :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, and :contentReference[oaicite:2]{index=2} become essential for understanding horror.
+This is where thinkers like Slavoj Žžek, Jacques Lacan, and Sigmund Freud become essential for understanding horror.
 
 They shift the question away from:
 > “What is the monster?”
@@ -211,7 +211,7 @@ This is why certain horror images remain unforgettable:
 
 The gaze reminds the viewer that they are not fully in control.
 
-Films like :contentReference[oaicite:3]{index=3} or :contentReference[oaicite:4]{index=4} become terrifying not because of jump scares alone, but because they create ontological vulnerability. The viewer begins feeling observed by the film itself.
+Films like *The Sixth Sense* or *The Ring* become terrifying not because of jump scares alone, but because they create ontological vulnerability. The viewer begins feeling observed by the film itself.
 
 The symbolic distance collapses.
 
@@ -258,7 +258,7 @@ Voices travel without bodies.
 Dead people persist through recordings.
 Digital identities outlive biological existence.
 
-This is why films like :contentReference[oaicite:5]{index=5} and :contentReference[oaicite:6]{index=6} feel philosophically important.
+This is why films like *Videodrome* and *The Thing* feel philosophically important.
 
 The ghost no longer haunts castles.
 It haunts networks.
@@ -286,7 +286,7 @@ This is why contemporary horror increasingly focuses on:
 
 The monster itself matters less than ontological uncertainty.
 
-Films like :contentReference[oaicite:7]{index=7}, :contentReference[oaicite:8]{index=8}, :contentReference[oaicite:9]{index=9}, and :contentReference[oaicite:10]{index=10} operate less as creature-features and more as psychological excavations.
+Films like *Psycho*, *Alien*, *Mulholland Drive*, and *Hereditary* operate less as creature-features and more as psychological excavations.
 
 Modern horror increasingly understands that the greatest fear may not be death.
 

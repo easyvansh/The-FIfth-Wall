@@ -57,11 +57,11 @@
 
 # *Offside*: Realism, Restriction, and the Politics of Seeing
 
-:contentReference[oaicite:0]{index=0} appears deceptively simple on the surface.
+*Offside* appears deceptively simple on the surface.
 
 A group of girls attempt to enter a football stadium in Iran disguised as men because women are prohibited from attending the match. Most of the film unfolds outside the stadium itself, where the girls are detained behind barricades by young soldiers who are barely more authoritative than they are.
 
-Yet from this small premise, :contentReference[oaicite:1]{index=1} constructs a quietly devastating critique of:
+Yet from this small premise, Jafar Panahi constructs a quietly devastating critique of:
 
 - bureaucracy,
 - nationalism,
@@ -78,7 +78,7 @@ It strips away cinematic excess so social reality can emerge without protective 
 
 ## Realism Without Spectacle
 
-Like the films of :contentReference[oaicite:2]{index=2} or :contentReference[oaicite:3]{index=3}, *Offside* constructs drama not through elaborate plot twists, but through ordinary social obstacles.
+Like the films of Vittorio De Sica or Roberto Rossellini, *Offside* constructs drama not through elaborate plot twists, but through ordinary social obstacles.
 
 The film’s realism emerges through:
 
@@ -197,7 +197,7 @@ Barriers divide cinematic space physically.
 
 The audience is denied stable visual control over the environment.
 
-This connects strongly to realist film theory, especially the work of :contentReference[oaicite:4]{index=4}.
+This connects strongly to realist film theory, especially the work of André Bazin.
 
 Bazin argued that realism often emerges through:
 
@@ -358,5 +358,3 @@ https://www.sensesofcinema.com/2007/cteq/offside/
 
 “Jafar Panahi and Iranian Neorealism.” *Bright Lights Film Journal*,
 https://brightlightsfilm.com
-
-:contentReference[oaicite:5]{index=5}

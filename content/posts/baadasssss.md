@@ -57,11 +57,11 @@
 
 # *Baadasssss!*, Independent Black Cinema, and the Politics of Resistance
 
-:contentReference[oaicite:0]{index=0} is not simply a biographical film about the making of :contentReference[oaicite:1]{index=1}.
+*Baadasssss!* is not simply a biographical film about the making of *Sweet Sweetback's Baadasssss Song*.
 
 It is also a historical examination of the structural barriers faced by Black filmmakers within the American film industry.
 
-Directed by :contentReference[oaicite:2]{index=2}, the film reconstructs the experiences of his father, :contentReference[oaicite:3]{index=3}, during the production of *Sweet Sweetback’s Baadasssss Song*.
+Directed by Mario Van Peebles, the film reconstructs the experiences of his father, Melvin Van Peebles, during the production of *Sweet Sweetback's Baadasssss Song*.
 
 Although the film explores multiple stages of production, the most important and difficult struggle remains financing and production management because nearly every other obstacle — casting, permits, labor, equipment, distribution, and even physical exhaustion — emerges from the absence of institutional support.
 
@@ -95,7 +95,7 @@ The issue is not simply financial caution.
 
 The narrative itself threatens dominant racial ideologies embedded within mainstream American cinema.
 
-As :contentReference[oaicite:4]{index=4} argues, representation remains inseparable from structures of power. Cinema does not merely reflect society passively — it actively organizes visibility through ideological systems.
+As Stuart Hall argues, representation remains inseparable from structures of power. Cinema does not merely reflect society passively — it actively organizes visibility through ideological systems.
 
 Hollywood during this period largely restricted Black representation to:
 
@@ -240,7 +240,7 @@ It reflects larger structures of state suspicion toward politically radical Blac
 
 ## Community Support Versus Institutional Absence
 
-Eventually, Melvin approaches :contentReference[oaicite:5]{index=5} for emergency financial assistance.
+Eventually, Melvin seeks emergency financial assistance to keep the production alive.
 
 This becomes essential for keeping production alive.
 

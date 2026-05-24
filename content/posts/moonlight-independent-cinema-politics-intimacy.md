@@ -57,7 +57,7 @@
 
 # *Moonlight*, Independent Cinema, and the Politics of Intimacy
 
-:contentReference[oaicite:0]{index=0} is a film deeply rooted in the traditions of American independent cinema.
+*Moonlight* is a film deeply rooted in the traditions of American independent cinema.
 
 Yet paradoxically, it became one of the most culturally visible films of the decade.
 
@@ -91,7 +91,7 @@ Mainstream Hollywood has historically framed Black masculinity through:
 - hypermasculinity,
 - spectacle.
 
-:contentReference[oaicite:1]{index=1} instead constructs a cinema of vulnerability and silence.
+Barry Jenkins instead constructs a cinema of vulnerability and silence.
 
 Chiron is never reduced into symbolic political abstraction or simplified victimhood.
 
@@ -106,7 +106,7 @@ And in this sense, *Moonlight* aligns strongly with traditions of independent ci
 
 ## Representation Beyond Stereotype
 
-The film can also be examined through the representation theory of :contentReference[oaicite:2]{index=2}.
+The film can also be examined through the representation theory of Stuart Hall.
 
 Hall argues that representation is not simply reflection,
 but active meaning production.
@@ -156,7 +156,7 @@ And this blending of historical specificity with aesthetic lyricism becomes one 
 
 One of the clearest markers of the film’s independent sensibility lies in its narrative structure.
 
-Inspired partly by :contentReference[oaicite:3]{index=3} by :contentReference[oaicite:4]{index=4}, the narrative fragments Chiron’s life into three temporally separated chapters.
+The narrative fragments Chiron's life into three temporally separated chapters.
 
 Significant events occur off-screen.
 
@@ -171,7 +171,7 @@ These absences become meaningful.
 
 The audience must actively reconstruct Chiron’s emotional life rather than passively consume it.
 
-This reflects what :contentReference[oaicite:5]{index=5} describes as **art cinema narration**, where ambiguity, psychological realism, and narrative gaps replace the rigid causal clarity of classical Hollywood storytelling.
+This reflects what David Bordwell describes as **art cinema narration**, where ambiguity, psychological realism, and narrative gaps replace the rigid causal clarity of classical Hollywood storytelling.
 
 The missing years become emotional voids.
 
@@ -189,7 +189,7 @@ and emotional openness make him vulnerable within the structures surrounding him
 
 As a result, “Black” becomes less authentic selfhood than protective armor.
 
-This idea resonates strongly with the work of :contentReference[oaicite:6]{index=6}, who explored how marginalized subjects internalize external expectations and reshape themselves psychologically for survival inside oppressive systems.
+This idea resonates strongly with the work of Judith Butler, who explored how marginalized subjects internalize external expectations and reshape themselves psychologically for survival inside oppressive systems.
 
 Chiron’s masculinity becomes performative adaptation.
 
@@ -199,7 +199,7 @@ Not liberation.
 
 Visually, *Moonlight* becomes remarkable in how it uses cinematography to communicate emotion and alienation.
 
-Jenkins and cinematographer :contentReference[oaicite:7]{index=7} repeatedly employ close-up framing that produces extraordinary intimacy between Chiron and the audience.
+Jenkins and cinematographer James Laxton repeatedly employ close-up framing that produces extraordinary intimacy between Chiron and the audience.
 
 Faces occupy the frame longer than mainstream cinema usually permits.
 
@@ -249,7 +249,7 @@ Water scenes repeatedly mark moments where Chiron temporarily escapes rigid soci
 
 The film’s sound design and score further reinforce its independent aesthetics.
 
-:contentReference[oaicite:8]{index=8}’s music combines classical orchestration with chopped-and-screwed sonic techniques associated with Southern hip-hop culture.
+Nicholas Britell's music combines classical orchestration with chopped-and-screwed sonic techniques associated with Southern hip-hop culture.
 
 This fusion mirrors the film’s broader emotional tensions:
 
@@ -274,7 +274,7 @@ And that trust becomes deeply affecting.
 
 Despite all these qualities, one could still argue that *Moonlight* partially appealed to mainstream audiences.
 
-The film was distributed by :contentReference[oaicite:9]{index=9}, a studio heavily associated with elevating independent cinema into culturally visible events.
+The film was distributed by A24, a studio heavily associated with elevating independent cinema into culturally visible events.
 
 Furthermore, the political climate surrounding race and LGBTQ+ visibility undoubtedly amplified the film’s resonance.
 

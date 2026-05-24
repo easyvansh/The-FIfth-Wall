@@ -27,7 +27,7 @@ export default function PostsPage() {
 
       <div className="grid gap-8">
         {posts.map((post) => (
-          <PostCard key={post.slug} post={post} featured={post.featured} />
+          <PostCard key={post.slug} post={post} featured />
         ))}
       </div>
     </section>

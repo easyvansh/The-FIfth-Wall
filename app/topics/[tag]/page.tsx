@@ -36,7 +36,7 @@ export default async function TopicPage({ params }: TopicPageProps) {
         <div>
           <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-amber">Essays</p>
           <div className="mt-5 grid gap-7">
-            {posts.length ? posts.map((post) => <PostCard key={post.slug} post={post} />) : <p className="text-text-secondary">No essays in this topic yet.</p>}
+            {posts.length ? posts.map((post) => <PostCard key={post.slug} post={post} featured />) : <p className="text-text-secondary">No essays in this topic yet.</p>}
           </div>
         </div>
 

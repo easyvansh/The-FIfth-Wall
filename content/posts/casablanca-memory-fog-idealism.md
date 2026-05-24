@@ -56,7 +56,7 @@
 
 # *Casablanca*: Memory, Fog, and the Performance of Idealism
 
-:contentReference[oaicite:0]{index=0} is one of those films that feels deceptively simple until you begin paying attention to how it is constructed.
+*Casablanca* is one of those films that feels deceptively simple until you begin paying attention to how it is constructed.
 
 On the surface, it appears to be a romantic wartime drama about an American café owner helping his former lover and her resistance-leader husband escape Nazi-controlled territory.
 
@@ -76,7 +76,7 @@ It is procedural.
 
 That atmosphere matters because the city itself becomes symbolic of wartime uncertainty. Nobody truly belongs there. Everyone is waiting for passage somewhere else — geographically, emotionally, politically.
 
-:contentReference[oaicite:1]{index=1} moves the camera through these spaces with remarkable fluidity. During the introduction to Rick’s Café Américain, the shots glide rhythmically from gamblers to refugees to corrupt deals to musicians, almost like the camera itself is wandering through a living organism.
+Michael Curtiz moves the camera through these spaces with remarkable fluidity. During the introduction to Rick's Café Américain, the shots glide rhythmically from gamblers to refugees to corrupt deals to musicians, almost like the camera itself is wandering through a living organism.
 
 Each movement flows seamlessly into the next, creating what feels less like editing and more like choreography.
 
@@ -147,7 +147,7 @@ heartbreak becomes cinematic precisely because people try so hard to remain comp
 
 Ilsa’s visual treatment throughout the film separates her stylistically from nearly every other character.
 
-:contentReference[oaicite:2]{index=2} is frequently shot through soft-focus lenses with glowing backlight, diffused lighting, and blurred backgrounds that give her presence an almost dreamlike quality.
+Ilsa is frequently shot through soft-focus lenses with glowing backlight, diffused lighting, and blurred backgrounds that give her presence an almost dreamlike quality.
 
 She feels less like a realistic person and more like memory materialized.
 
@@ -221,7 +221,7 @@ But politically, it functions as symbolic reconciliation between America and Fre
 That is why *Casablanca* endures.
 
 Not simply because it is romantic.
-Not simply because :contentReference[oaicite:3]{index=3} looks impossibly cool in a trench coat.
+Not simply because Humphrey Bogart looks impossibly cool in a trench coat.
 
 The film survives because every stylistic choice — lighting, framing, fog, shadows, camera movement, soft focus — quietly participates in the emotional and political evolution of its characters.
 

@@ -56,11 +56,11 @@
 
 # *Strike*: Collision, Collective Bodies, and the Machinery of Oppression in Eisenstein’s Revolutionary Cinema
 
-:contentReference[oaicite:0]{index=0} is not a subtle film.
+*Strike* is not a subtle film.
 
 And it was never trying to be.
 
-Directed by :contentReference[oaicite:1]{index=1} during the early years of the Soviet Union, the film operates less like traditional narrative cinema and more like an ideological machine designed to provoke emotional and political awakening within the spectator.
+Directed by Sergei Eisenstein during the early years of the Soviet Union, the film operates less like traditional narrative cinema and more like an ideological machine designed to provoke emotional and political awakening within the spectator.
 
 Unlike classical Hollywood cinema — which typically conceals editing in order to preserve realism and continuity — Eisenstein wants the audience to *feel* the cuts.
 
@@ -124,7 +124,7 @@ Individually, these images remain relatively ordinary.
 
 Together, however, they generate meaning through collision.
 
-And this is where Eisenstein radicalizes the insights of :contentReference[oaicite:2]{index=2}.
+And this is where Eisenstein radicalizes the insights of Soviet montage theory.
 
 Kuleshov demonstrated that audiences psychologically construct meaning between adjacent images.
 

@@ -63,12 +63,12 @@ A woman sees danger that society refuses to acknowledge.
 
 In each case, horror transforms the familiar into the uncanny.
 
-:contentReference[oaicite:0]{index=0} defines the uncanny as something once familiar returning in estranged form. Horror therefore feels intimate rather than purely external. It does not invent fear from nothing. It reveals fear already buried within ordinary life.
+Sigmund Freud defines the uncanny as something once familiar returning in estranged form. Horror therefore feels intimate rather than purely external. It does not invent fear from nothing. It reveals fear already buried within ordinary life.
 
 Normality in horror is therefore not innocence.
 It is repression.
 
-Suburbia in :contentReference[oaicite:1]{index=1} appears calm, but Michael Myers reveals violence hidden beneath its surface. The family in Gothic fiction appears sacred, yet the haunted house exposes inheritance, secrecy, and trauma. Digital networks in films like :contentReference[oaicite:2]{index=2} appear connective and modern, yet reveal alienation and disappearance beneath technological progress.
+Suburbia in *Halloween* appears calm, but Michael Myers reveals violence hidden beneath its surface. The family in Gothic fiction appears sacred, yet the haunted house exposes inheritance, secrecy, and trauma. Digital networks in films like *The Ring* appear connective and modern, yet reveal alienation and disappearance beneath technological progress.
 
 Horror matters because it asks a dangerous question:
 
@@ -110,7 +110,7 @@ Femininity, by contrast, is culturally associated with:
 
 Horror both exploits and destabilizes these associations.
 
-:contentReference[oaicite:3]{index=3} argues in *The Monstrous-Feminine* that horror repeatedly constructs femininity itself as terrifying through images of blood, reproduction, abjection, maternity, and bodily excess. The feminine becomes frightening because patriarchal culture fears what it cannot fully control.
+Barbara Creed argues in *The Monstrous-Feminine* that horror repeatedly constructs femininity itself as terrifying through images of blood, reproduction, abjection, maternity, and bodily excess. The feminine becomes frightening because patriarchal culture fears what it cannot fully control.
 
 Masculinity fears loss of control.
 
@@ -136,7 +136,7 @@ Horror dismantles these systems.
 
 This is why the feminine body repeatedly becomes the site of horror. The feminine destabilizes masculine fantasies of completeness because it represents alterity, embodiment, and uncontrollable difference.
 
-:contentReference[oaicite:4]{index=4} argues in “Visual Pleasure and Narrative Cinema” that classical cinema often structures women as objects of the male gaze while simultaneously positioning them as sources of anxiety because they signify sexual difference.
+Laura Mulvey argues in "Visual Pleasure and Narrative Cinema" that classical cinema often structures women as objects of the male gaze while simultaneously positioning them as sources of anxiety because they signify sexual difference.
 
 Horror intensifies this contradiction.
 
@@ -156,7 +156,7 @@ These figures disturb the fantasy that masculinity is sovereign.
 
 The slasher film gives this gendered structure remarkable clarity.
 
-The killer often represents masculinity emptied of humanity and reduced to pure pursuit. Michael Myers in :contentReference[oaicite:5]{index=5} is not psychologically complex. He is a mask, a gaze, a compulsion moving through suburban space.
+The killer often represents masculinity emptied of humanity and reduced to pure pursuit. Michael Myers in *Halloween* is not psychologically complex. He is a mask, a gaze, a compulsion moving through suburban space.
 
 His masculinity is not strength.
 It is surveillance and repetition.
@@ -173,7 +173,7 @@ they register the breakdown of symbolic normality before society acknowledges it
 
 This is why the Final Girl matters psychologically.
 
-:contentReference[oaicite:6]{index=6} argues that audience identification gradually shifts toward the surviving girl during slashers. Spectators do not simply consume female suffering voyeuristically. They are forced into her vulnerability, perception, terror, and resistance.
+Carol Clover argues that audience identification gradually shifts toward the surviving girl during slashers. Spectators do not simply consume female suffering voyeuristically. They are forced into her vulnerability, perception, terror, and resistance.
 
 Gender therefore becomes unstable inside spectatorship itself.
 
@@ -231,9 +231,9 @@ The body becomes the truth ideology cannot fully suppress.
 
 These structures extend beyond cinema into Gothic literature.
 
-In :contentReference[oaicite:7]{index=7}, masculinity fears feminine sexuality, foreign contamination, and collapse of patriarchal order. Lucy and Mina become sites upon which male anxiety is projected. Dracula himself becomes both hypermasculine predator and feminized foreign threat, crossing boundaries of nation, sexuality, body, and mortality.
+In *Dracula*, masculinity fears feminine sexuality, foreign contamination, and collapse of patriarchal order. Lucy and Mina become sites upon which male anxiety is projected. Dracula himself becomes both hypermasculine predator and feminized foreign threat, crossing boundaries of nation, sexuality, body, and mortality.
 
-In :contentReference[oaicite:8]{index=8}, Victor Frankenstein attempts masculine creation without femininity. He tries producing life without maternity, relationality, or care. The creature becomes the return of everything Victor represses:
+In *Frankenstein*, Victor Frankenstein attempts masculine creation without femininity. He tries producing life without maternity, relationality, or care. The creature becomes the return of everything Victor represses:
 dependency,
 guilt,
 embodiment,
@@ -243,7 +243,7 @@ The horror lies not simply in the creature’s existence.
 
 The horror lies in masculine ambition refusing responsibility for what it creates.
 
-Similarly, in :contentReference[oaicite:9]{index=9}, Bertha Mason functions as the Gothic double of repressed feminine rage. She is imprisoned so respectable domestic order may continue uninterrupted.
+Similarly, in *Jane Eyre*, Bertha Mason functions as the Gothic double of repressed feminine rage. She is imprisoned so respectable domestic order may continue uninterrupted.
 
 But repression never remains stable.
 
@@ -259,7 +259,7 @@ When audiences watch horror, they do not merely observe fear.
 
 They rehearse psychic breakdown from safe symbolic distance.
 
-:contentReference[oaicite:10]{index=10} describes horror as a “body genre” because it produces physical responses:
+Barbara Mulvey describes horror as a "body genre" because it produces physical responses:
 - tension,
 - recoil,
 - panic,

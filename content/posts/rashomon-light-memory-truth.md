@@ -57,7 +57,7 @@
 
 # *Rashomon*: Light Through Trees, Performance Through Memory, and the Collapse of Objective Truth
 
-:contentReference[oaicite:0]{index=0} is not merely a murder mystery or a courtroom drama disguised as a samurai film.
+*Rashomon* is not merely a murder mystery or a courtroom drama disguised as a samurai film.
 
 It is a film about the instability of truth itself.
 
@@ -67,7 +67,7 @@ Every testimony in the film reshapes reality not according to what objectively h
 
 ## Postwar Collapse and Moral Fragmentation
 
-Released in 1950 by :contentReference[oaicite:1]{index=1} during postwar Japan, the film arrived in a historical moment where certainty itself had collapsed.
+Released in 1950 by Akira Kurosawa during postwar Japan, the film arrived in a historical moment where certainty itself had collapsed.
 
 Japan had experienced military defeat, national humiliation, moral fragmentation, and ideological instability following World War II. Old social structures no longer carried unquestioned authority.
 

@@ -57,14 +57,14 @@
 
 # *Us*: Sound, Doubles, and the Horror Beneath the American Dream
 
-:contentReference[oaicite:0]{index=0} is a horror film obsessed with reflection.
+*Us* is a horror film obsessed with reflection.
 
 Not simply literal mirrors,
 but psychological mirrors,
 social mirrors,
 national mirrors.
 
-Directed by :contentReference[oaicite:1]{index=1}, the film gradually reveals that its true horror does not emerge from monsters invading the home.
+Directed by Jordan Peele, the film gradually reveals that its true horror does not emerge from monsters invading the home.
 
 The horror emerges from the realization that the monsters were always connected to the home itself.
 
@@ -96,7 +96,7 @@ The audience is slowly removed from ordinary reality and pushed into psychologic
 
 This transition becomes extremely effective because the movement from diegetic to non-diegetic sound mirrors Adelaide’s movement from reality into dread itself.
 
-:contentReference[oaicite:2]{index=2} argues that sound in cinema can “materialize fear” by shaping emotional expectation before visual confirmation appears.
+Sound design scholar Michel Chion argues that sound in cinema can "materialize fear" by shaping emotional expectation before visual confirmation appears.
 
 Peele understands this perfectly.
 
@@ -126,7 +126,7 @@ Biblical imagery has historically occupied a central role in horror cinema becau
 - apocalypse,
 - moral reckoning.
 
-:contentReference[oaicite:3]{index=3} argues that horror often externalizes cultural anxieties through symbolic figures and warnings.
+Robin Wood argues that horror often externalizes cultural anxieties through symbolic figures and warnings.
 
 The Jeremiah verse therefore operates both narratively and ideologically.
 
@@ -150,7 +150,7 @@ The audience’s field of vision becomes restricted.
 
 Close framing narrows perception and unconsciously produces vulnerability.
 
-:contentReference[oaicite:4]{index=4} argues that horror often emerges from partial visual information and restricted knowledge.
+Psychoanalytic film theory argues that horror often emerges from partial visual information and restricted knowledge.
 
 By limiting what the audience fully perceives, Peele transforms ordinary objects into threatening presences.
 
@@ -247,7 +247,7 @@ This idea becomes psychologically devastating through the film’s use of double
 
 The Tethered are terrifying precisely because they are familiar.
 
-:contentReference[oaicite:5]{index=5}’s concept of the **uncanny** becomes crucial here.
+Freud's concept of the **uncanny** becomes crucial here.
 
 Freud argues that the uncanny emerges when something previously hidden suddenly returns in altered form.
 
